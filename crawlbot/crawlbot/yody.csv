@@ -1,0 +1,692 @@
+type;id;active;name;category;price_tex;id_tax_rules_group;wholesale_price;on_sale;reduction_price;reduction_percent;reduction_from;reduction_to;reference;supplier_reference;supplier;manufacturer;ean13;upc;ecotax;width;height;depth;weight;quantity;minimal_quantity;visibility;additional_shipping_cost;unity;unit_price;description_short;description;tags;meta_title;meta_keywords;meta_description;link_rewrite;available_now;available_later;available_for_order;available_date;date_add;show_price;image;image_alt;delete_existing_images;features;online_only;condition;customizable;uploadable_files;text_fields;out_of_stock;is_virtual;file_url;nb_downloadable;date_expiration;product_url;categories_url
+import_type;id_product;product_reference;group;attribute;supplier_reference;reference;ean13;upc;wholesale_price;price;ecotax;quantity;minimal_quantity;low_stock_threshold;low_stock_alert;weight;default_on;available_date;image_position;image_url;image_alt;shop;advanced_stock_management
+type;id;active;name;category;price_tex;id_tax_rules_group;wholesale_price;on_sale;reduction_price;reduction_percent;reduction_from;reduction_to;reference;supplier_reference;supplier;manufacturer;ean13;upc;ecotax;width;height;depth;weight;quantity;minimal_quantity;visibility;additional_shipping_cost;unity;unit_price;description_short;description;tags;meta_title;meta_keywords;meta_description;link_rewrite;available_now;available_later;available_for_order;available_date;date_add;show_price;image;image_alt;delete_existing_images;features;online_only;condition;customizable;uploadable_files;text_fields;out_of_stock;is_virtual;file_url;nb_downloadable;date_expiration;product_url;categories_url
+import_type;id_product;product_reference;group;attribute;supplier_reference;reference;ean13;upc;wholesale_price;price;ecotax;quantity;minimal_quantity;low_stock_threshold;low_stock_alert;weight;default_on;available_date;image_position;image_url;image_alt;shop;advanced_stock_management
+PRODUCT;;1;Áo da nam_Đen(DAM106_Đ);Nam,Áo da nam (ADM);1649000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/7401e27cec362810a2e23b4a87076bf941bb1efc.jpg,images/yody/full/a15e9f4209c87083a219310fa25aeb1c8a48f2f4.jpg,images/yody/full/df71db1a37bc414f29ee8898a8f85a83867d71e5.jpg;Áo da nam_Đen(DAM106_Đ),Áo da nam_Đen(DAM106_Đ),Áo da nam_Đen(DAM106_Đ);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-da-namdendam106d-p3424775.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-da-nam-adm-pc71763.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;1649000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;1649000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;1649000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;1649000;;;;;;;;;;;;;;
+PRODUCT;;1;Jean nam rách_Xanh đậm ( QJM1TR108_XĐM);Nam,Quần jean nam (QJM);659000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/5d38597efe8bc777b619bd0d9e1361505daad473.jpg,images/yody/full/82f7203e525411870a9515f285e10a5058f7275e.jpg,images/yody/full/2f7e63dca4472e4d1e0139caff97d2cc3804c71d.jpg,images/yody/full/adabe536eb7d3a3fd9362f7659930953aa13a0cc.jpg,images/yody/full/62e1686ea5803f88cd97304b32fe4827731fb59a.jpg;Jean nam rách_Xanh đậm ( QJM1TR108_XĐM),Jean nam rách_Xanh đậm ( QJM1TR108_XĐM),Jean nam rách_Xanh đậm ( QJM1TR108_XĐM),Jean nam rách_Xanh đậm ( QJM1TR108_XĐM),Jean nam rách_Xanh đậm ( QJM1TR108_XĐM);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/jean-nam-rachxanh-dam-qjm1tr108xdm-p4096247.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-jean-nam-qjm-pc182044.html
+COMBINATION;;Size:select:1;Size:12;;;;;;659000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;659000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;659000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;659000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nỉ nam cổ dựng_Đen (BDM08_BLA);Nam,Bộ quần áo nam (BDM);539000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/17bc2cb7503714d015211032d12e8a991530edab.jpg,images/yody/full/eb798c62c7036b21328656e69dafa1696c317163.jpg,images/yody/full/7fd1a6f6223517d2a7a2d2659ad643544b784ead.jpg,images/yody/full/102d44f84c5a152fbe5dd55a0d91bca8146c4cce.jpg,images/yody/full/026bf97800a2c5a7dd9ee06c1a76cba5c8ea6e37.jpg,images/yody/full/b96d60e8469b967d4adf6dce4b5aefd1cdcc900c.jpg;Bộ nỉ nam cổ dựng_Đen (BDM08_BLA),Bộ nỉ nam cổ dựng_Đen (BDM08_BLA),Bộ nỉ nam cổ dựng_Đen (BDM08_BLA),Bộ nỉ nam cổ dựng_Đen (BDM08_BLA),Bộ nỉ nam cổ dựng_Đen (BDM08_BLA),Bộ nỉ nam cổ dựng_Đen (BDM08_BLA);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-ni-nam-co-dungden-bdm08bla-p5188248.html;https://yody.vn/nam-pc42832.html,https://yody.vn/bo-quan-ao-nam-bdm-pc82957.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;539000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;539000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;539000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo phao nam trần cong_Ghi đá(PHM201_GH);Nam,Áo phao nam (PHM);689000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/39aacfdd262561c84ca138b6831323367d89363e.jpg,images/yody/full/508db8f6221e747126b058ff5875f035ce0485cd.jpg,images/yody/full/6c949985230df30637dc71acd1e6a803879594e3.jpg;Áo phao nam trần cong_Ghi đá(PHM201_GH),Áo phao nam trần cong_Ghi đá(PHM201_GH),Áo phao nam trần cong_Ghi đá(PHM201_GH);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-phao-nam-tran-congghi-daphm201gh-p3490148.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phao-nam-phm-pc75232.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;689000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nỉ nam phối cổ_Tím than (BDM12_THM);Nam,Bộ quần áo nam (BDM);399000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/1cb0464deaca51d8cda4bb7078bf2c0366d42221.jpg,images/yody/full/34e895e748af95a38adc5fa6991ff92cfcd9edb3.jpg,images/yody/full/44838473c1c7f5f4f5268ba9d4e78be6370ca48b.jpg,images/yody/full/225e3d8e3bbbf835179d5658b75046cfc24d7549.jpg,images/yody/full/d322d492ba412db63a9291141201611e5a4d790c.jpg,images/yody/full/455890d2f46e9123c4fef9b3b1979f114e277020.jpg,images/yody/full/b45bab399a71f00511a23d040a7bedeebb0a9c69.jpg;Bộ nỉ nam phối cổ_Tím than (BDM12_THM),Bộ nỉ nam phối cổ_Tím than (BDM12_THM),Bộ nỉ nam phối cổ_Tím than (BDM12_THM),Bộ nỉ nam phối cổ_Tím than (BDM12_THM),Bộ nỉ nam phối cổ_Tím than (BDM12_THM),Bộ nỉ nam phối cổ_Tím than (BDM12_THM),Bộ nỉ nam phối cổ_Tím than (BDM12_THM);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-ni-nam-phoi-cotim-than-bdm12thm-p5447900.html;https://yody.vn/nam-pc42832.html,https://yody.vn/bo-quan-ao-nam-bdm-pc82957.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;399000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nỉ nam phối cổ_Xám (BDM12_XAM);Nam,Bộ quần áo nam (BDM);399000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/9fd67790aa06330cee18aadf4b9df4b7b9747782.jpg,images/yody/full/0beacf9529ebe0cff5ee338a6ab60b005bb867d4.jpg,images/yody/full/c599e5717451c4fa0ec35f7efc967fb405bf5a15.jpg;Bộ nỉ nam phối cổ_Xám (BDM12_XAM),Bộ nỉ nam phối cổ_Xám (BDM12_XAM),Bộ nỉ nam phối cổ_Xám (BDM12_XAM);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-ni-nam-phoi-coxam-bdm12xam-p5447905.html;https://yody.vn/nam-pc42832.html,https://yody.vn/bo-quan-ao-nam-bdm-pc82957.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;399000;;;;;;;;;;;;;;
+PRODUCT;;1;Len nam cổ tròn 02_Đỏ đô;Nam,Áo len nam (ALM);489000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/3ea7b418e71ce6a53c6f0f129bbfeeaac0d26f3a.jpg,images/yody/full/1709c6f9baa44bcd867671f29e41e197112272e9.jpg,images/yody/full/dbd75d5d9dccdfe9826fb9017a949377c300108c.jpg,images/yody/full/ca6ba2937d95c449ad7871b09fb5ae69d35a7ac2.jpg,images/yody/full/5a93b17399c9baf68785cc29b003d755d8a91168.jpg,images/yody/full/1d3ded3e0d2817fd0d0865e679988b6046ca20fb.jpg;Len nam cổ tròn 02_Đỏ đô,Len nam cổ tròn 02_Đỏ đô,Len nam cổ tròn 02_Đỏ đô,Len nam cổ tròn 02_Đỏ đô,Len nam cổ tròn 02_Đỏ đô,Len nam cổ tròn 02_Đỏ đô;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/len-nam-co-tron-02do-do-p8862261.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-len-nam-alm-pc42837.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;489000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;489000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;489000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;489000;;;;;;;;;;;;;;
+PRODUCT;;1;Len nam cổ lọ cơ bản_Navy;Nam,Áo len nam (ALM);399000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/a9b5414c1a9af35fc26043ff33e9e6688a58ab41.jpg,images/yody/full/5a7ee0c522d9fda16b5d86454aa6b039bc6df212.jpg,images/yody/full/63f98317b235f73bbe61b075402abb252819616d.jpg,images/yody/full/988ba3e2fd1bbe63b2d8b1e45aa6069539d7e52b.jpg;Len nam cổ lọ cơ bản_Navy,Len nam cổ lọ cơ bản_Navy,Len nam cổ lọ cơ bản_Navy,Len nam cổ lọ cơ bản_Navy;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/len-nam-co-lo-co-bannavy-p7450732.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-len-nam-alm-pc42837.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;399000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần legging nữ bổ túi_Đen;Nữ,Quần nữ khác (QKN);299000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/5ba86f346ee978dd29ad2b39fb57ce68a13c4068.jpg,images/yody/full/58c3866653772e9496c25b739a08052600ed148b.jpg,images/yody/full/7e59ead38ef2597cc2d7c2a47de15176c16af502.jpg,images/yody/full/af9c7e1ef145e2f8c773894b38145749eb026d8a.jpg;Quần legging nữ bổ túi_Đen,Quần legging nữ bổ túi_Đen,Quần legging nữ bổ túi_Đen,Quần legging nữ bổ túi_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-legging-nu-bo-tuiden-p8454458.html;https://yody.vn/nu-pc42844.html,https://yody.vn/quan-nu-khac-qkn-pc182050.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;299000;;;;;;;;;;;;;;
+PRODUCT;;1;Vest nam kẻ_Gân Xanh;Nam,Áo vest nam (VEM);1589000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/1805e222a6ff4bcf3abcdabda9e432c30ef7ff10.jpg;Vest nam kẻ_Gân Xanh;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/vest-nam-kegan-xanh-p6088350.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-vest-nam-vem-pc42835.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;1589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;1589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;1589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;1589000;;;;;;;;;;;;;;
+PRODUCT;;1;Vest nam kẻ_Gân Đen;Nam,Áo vest nam (VEM);1589000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/a69bd8d7a18fecc50ba9e2435a02c3e0cbc7ad44.jpg;Vest nam kẻ_Gân Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/vest-nam-kegan-den-p6088355.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-vest-nam-vem-pc42835.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;1589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;1589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;1589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;1589000;;;;;;;;;;;;;;
+PRODUCT;;1;Vest nam kẻ_Kẻ Xanh Đen;Nam,Áo vest nam (VEM);1589000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/bb8d404fb8134d978e3902c3754b15d9f829e50c.jpg,images/yody/full/68a65ed2b42e3e38c327e5969cf6147b144083b7.jpg,images/yody/full/2cec5a3fdf87abd901becbcd81e1028698db89ca.jpg;Vest nam kẻ_Kẻ Xanh Đen,Vest nam kẻ_Kẻ Xanh Đen,Vest nam kẻ_Kẻ Xanh Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/vest-nam-keke-xanh-den-p6088365.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-vest-nam-vem-pc42835.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;1589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;1589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;1589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;1589000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo chống nắng nữ_Vàng;Nữ,Áo chống nắng (ACN);279000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/11c341ecd6064f513e4efeab0e032edfb0633e28.jpg;Áo chống nắng nữ_Vàng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-chong-nang-nuvang-p6472059.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-chong-nang-acn-pc102884.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;279000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo da nam_Đỏ đô(DAM106_ĐĐ);Nam,Áo da nam (ADM);1649000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/5dedac98e738ecb75fa60959e5b5207d726dac9b.jpg,images/yody/full/4bc7899b56a445f274a256b78b82732143e87247.jpg,images/yody/full/74e2a168bd31d7f006756ebe158b9c5e31c766d8.jpg;Áo da nam_Đỏ đô(DAM106_ĐĐ),Áo da nam_Đỏ đô(DAM106_ĐĐ),Áo da nam_Đỏ đô(DAM106_ĐĐ);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-da-namdo-dodam106dd-p3424770.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-da-nam-adm-pc71763.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;1649000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;1649000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;1649000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;1649000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần sooc nam in sườn_Đen;Nam,Quần sooc nam (QSM);299000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/198aee7c1fe22a86e38d6d7b1802020b884fe877.jpg,images/yody/full/e3ea9fc41c64e938a6607533d19e3eb6c6ec6456.jpg,images/yody/full/91c47545a04bffc9000dfdb0933d0194fbb44755.jpg,images/yody/full/3883247243e991ee7c8832e355288f6a127c0162.jpg;Quần sooc nam in sườn_Đen,Quần sooc nam in sườn_Đen,Quần sooc nam in sườn_Đen,Quần sooc nam in sườn_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-sooc-nam-in-suonden-p12105258.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;299000;;;;;;;;;;;;;;
+PRODUCT;;1;Polo phối in ngang_Tím than/Xanh;Nam,Áo phông nam (APM);379000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/c7f2fed64a4c028edd41db9e961fe360b24e2f56.jpg,images/yody/full/516e2f5cb000aaa1522a72f1499dff27f2a4d8ed.jpg,images/yody/full/7b2de4a0fa833ced571a70aa0f4ae342d81daa9b.jpg,images/yody/full/de1eec91add911ed4ccbf6bcf531ff4e69b6e16e.jpg,images/yody/full/61ae1dcf8b24c45602e51ca840ffcdd0bebdd837.jpg;Polo phối in ngang_Tím than/Xanh,Polo phối in ngang_Tím than/Xanh,Polo phối in ngang_Tím than/Xanh,Polo phối in ngang_Tím than/Xanh,Polo phối in ngang_Tím than/Xanh;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/polo-phoi-in-ngangtim-thanxanh-p12067254.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;;;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;379000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần sooc kaki nam_Ghi;Nam,Quần sooc nam (QSM);299000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/a11dd0efea96a8212dd3a8eba0db66cf69744292.jpg,images/yody/full/2fb4f3ea534125bf944cb975180e4ca81053612f.jpg;Quần sooc kaki nam_Ghi,Quần sooc kaki nam_Ghi;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-sooc-kaki-namghi-p6606624.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;299000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần da cá túi cơi_Tím than;Nam,Quần sooc nam (QSM);249000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/c0253ba0a561184fa5265470152c3dfb885e06c9.jpg,images/yody/full/a7b9097d9e68c65abedf754e7cd4ce528cb315ed.jpg,images/yody/full/6ac447d3a12fd25b6a44f1333f7ffb3beda75d60.jpg,images/yody/full/80812e78cbbf9e3008bacdf249f8d09688bdfd4b.jpg;Quần da cá túi cơi_Tím than,Quần da cá túi cơi_Tím than,Quần da cá túi cơi_Tím than,Quần da cá túi cơi_Tím than;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-da-ca-tui-coitim-than-p6606296.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;249000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;249000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;249000;;;;;;;;;;;;;;
+PRODUCT;;1;Ghi lê cải voan-Đen(GLN906-BL);Nữ,Áo ghi lê nữ (GLN);889000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/6a2e495d4e0e5090a62461a4bd84dee3a4e2d333.jpg;Ghi lê cải voan-Đen(GLN906-BL);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ghi-le-cai-voandengln906bl-p1908568.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+PRODUCT;;1;Gilê nữ đai eo_Trắng(GLN003_WHI);Nữ,Áo ghi lê nữ (GLN);589000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/e810a987ddc8a6dde3b841ca7a5e9062bca9ee92.jpg,images/yody/full/3ead8ecc9051efbe58eefc759d08e086371932a1.jpg;Gilê nữ đai eo_Trắng(GLN003_WHI),Gilê nữ đai eo_Trắng(GLN003_WHI);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-nu-dai-eotranggln003whi-p4680901.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;589000;;;;;;;;;;;;;;
+PRODUCT;;1;Gilê nữ đai eo_Nâu(GLN003_BRO);Nữ,Áo ghi lê nữ (GLN);589000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/c37e96adac7e2e2d36ae3e78dcd3d5ccc2984813.jpg,images/yody/full/59a7665739a7ebe6addc32926e7fc5c564d99f62.jpg,images/yody/full/2840c26d3838d0414110d9d7376baaf2c664a761.jpg,images/yody/full/d9ba2fdbf34b6655c44d786a73c5c13e3d50e326.jpg;Gilê nữ đai eo_Nâu(GLN003_BRO),Gilê nữ đai eo_Nâu(GLN003_BRO),Gilê nữ đai eo_Nâu(GLN003_BRO),Gilê nữ đai eo_Nâu(GLN003_BRO);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-nu-dai-eonaugln003bro-p4680897.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;589000;;;;;;;;;;;;;;
+PRODUCT;;1;Gilê 2 lớp - Xanh đen(GLN907-Xanh đen);Nữ,Áo ghi lê nữ (GLN);1289000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/c9720a3553148b29a0092416476b137f4d669c05.jpg,images/yody/full/ca39c55ca32220e48f6ca05333f6df0276299000.jpg,images/yody/full/36d1048f62116c1e8c8c2065f220c0cd1bf0a098.jpg;Gilê 2 lớp - Xanh đen(GLN907-Xanh đen),Gilê 2 lớp - Xanh đen(GLN907-Xanh đen),Gilê 2 lớp - Xanh đen(GLN907-Xanh đen);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-2-lop-xanh-dengln907xanh-den-p2068172.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;1289000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;1289000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;1289000;;;;;;;;;;;;;;
+PRODUCT;;1;Ghi lê đai buộc_Đen(GLN1004_BL);Nữ,Áo ghi lê nữ (GLN);789000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/2defb2cc8f090af27b72b1ed05d245ee4b16ea41.jpg,images/yody/full/001f0e337b795f1606c46dbaea6cc658c253767d.jpg,images/yody/full/17e310d0051f4755c07331dfde9cb7e6cd5e8bff.jpg;Ghi lê đai buộc_Đen(GLN1004_BL),Ghi lê đai buộc_Đen(GLN1004_BL),Ghi lê đai buộc_Đen(GLN1004_BL);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ghi-le-dai-buocdengln1004bl-p3359578.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;789000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;789000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;789000;;;;;;;;;;;;;;
+PRODUCT;;1;Gilê nữ 2 túi_Đen(GLN002_BLA);Nữ,Áo ghi lê nữ (GLN);589000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/41768004c3123efc0c9d70c2d56e53730a1d490c.jpg,images/yody/full/3312a3f01839247f404db4a43128280376431857.jpg,images/yody/full/c3fa9aa9701fccbedf3fb36070c7d7e662775d9a.jpg,images/yody/full/4871fb21039a5cd717d2fc14139c30801fb0582d.jpg;Gilê nữ 2 túi_Đen(GLN002_BLA),Gilê nữ 2 túi_Đen(GLN002_BLA),Gilê nữ 2 túi_Đen(GLN002_BLA),Gilê nữ 2 túi_Đen(GLN002_BLA);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-nu-2-tuidengln002bla-p4680905.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;589000;;;;;;;;;;;;;;
+PRODUCT;;1;Ghi lê Lucie set_Đen(GLN001_BLA);Nữ,Áo ghi lê nữ (GLN);689000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/b28780323a46d8500fe7b3dcd767a2efb86cd720.jpg,images/yody/full/0d209fac8bcb07dcad48b850aeb3c9d5118df15a.jpg,images/yody/full/9c2ad231271f39896043542689677aec1b96c227.jpg;Ghi lê Lucie set_Đen(GLN001_BLA),Ghi lê Lucie set_Đen(GLN001_BLA),Ghi lê Lucie set_Đen(GLN001_BLA);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ghi-le-lucie-setdengln001bla-p4250434.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;689000;;;;;;;;;;;;;;
+PRODUCT;;1;Gilê nữ 2 túi_Rêu(GLN002_REU);Nữ,Áo ghi lê nữ (GLN);589000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/a00b47f0d775fdd5dcc59a07e48269f9302e226d.jpg,images/yody/full/2b2e9c33abcad7753eeeeec851bd6fa7e0748273.jpg,images/yody/full/5713fa7a7c3f8ae1ea3d73eaea597ab8825f3c94.jpg,images/yody/full/4646435ed389c8c67c2fb5ba88dde5cfa89802f0.jpg;Gilê nữ 2 túi_Rêu(GLN002_REU),Gilê nữ 2 túi_Rêu(GLN002_REU),Gilê nữ 2 túi_Rêu(GLN002_REU),Gilê nữ 2 túi_Rêu(GLN002_REU);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-nu-2-tuireugln002reu-p4680909.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;589000;;;;;;;;;;;;;;
+PRODUCT;;1;Gile nữ cổ đen_Kẻ xám(GLN004_KEX);Nữ,Áo ghi lê nữ (GLN);589000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/2a4f233b6bfe8104d0da29fde35c0e682829a513.jpg,images/yody/full/bfb3daa3c798ae0a06a6cf1bc18888ed4b1ac4eb.jpg;Gile nữ cổ đen_Kẻ xám(GLN004_KEX),Gile nữ cổ đen_Kẻ xám(GLN004_KEX);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-nu-co-denke-xamgln004kex-p4866919.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;589000;;;;;;;;;;;;;;
+PRODUCT;;1;Gile đai eo dài_Đen(04281003_TXBLA);Nữ,Áo ghi lê nữ (GLN);889000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/6a68f4a9d9f34d7497cba2c1cb7221ecb9bae124.jpg,images/yody/full/5e242b0b8714a9c4de5914955527136eda9642cd.jpg,images/yody/full/6e5301a2ab2498058377210b52e7a8167e966218.jpg;Gile đai eo dài_Đen(04281003_TXBLA),Gile đai eo dài_Đen(04281003_TXBLA),Gile đai eo dài_Đen(04281003_TXBLA);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-dai-eo-daiden04281003txbla-p5034698.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;889000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;889000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;889000;;;;;;;;;;;;;;
+PRODUCT;;1;GILE lưới_Trắng(GLN005_WHI);Nữ,Áo ghi lê nữ (GLN);689000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/21d8734d7f26a18131023c3d19dc087d785ca530.jpg,images/yody/full/2e1d5d17443c21e3edbfef03657b8f66fa5f967f.jpg,images/yody/full/00c0305c96e5006d3154db4a360223769f5400f6.jpg;GILE lưới_Trắng(GLN005_WHI),GILE lưới_Trắng(GLN005_WHI),GILE lưới_Trắng(GLN005_WHI);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-luoitranggln005whi-p4972338.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;689000;;;;;;;;;;;;;;
+PRODUCT;;1;Gilê cổ điển_Ghi (04068048_DA.GHI);Nữ,Áo ghi lê nữ (GLN);989000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/76ae88d15a1afb6c8ce57ecbdb55159e10da914f.jpg,images/yody/full/5fafcd681b83b759277166d47d09f7f277c3c106.jpg,images/yody/full/9d2ee919e8ff82c18a50c76b660bae0b35e74f5e.jpg;Gilê cổ điển_Ghi (04068048_DA.GHI),Gilê cổ điển_Ghi (04068048_DA.GHI),Gilê cổ điển_Ghi (04068048_DA.GHI);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-co-dienghi-04068048da.ghi-p5355364.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;989000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;989000;;;;;;;;;;;;;;
+PRODUCT;;1;Gile cơ bản 6 cúc_Ghi đá;Nữ,Áo ghi lê nữ (GLN);679000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/ae99400cebbb3bb8686fa9dcd16bff08028b090b.jpg,images/yody/full/cf15a4cf7bdb0421e30ce984badeb53876a6c705.jpg,images/yody/full/bc474ce410f61ec26ae86329bde157f478072239.jpg,images/yody/full/313198ab569f11583358e04eb606db22377a81e5.jpg,images/yody/full/1791cbe171974fb0c33728085c504c4fd89d2c35.jpg;Gile cơ bản 6 cúc_Ghi đá,Gile cơ bản 6 cúc_Ghi đá,Gile cơ bản 6 cúc_Ghi đá,Gile cơ bản 6 cúc_Ghi đá,Gile cơ bản 6 cúc_Ghi đá;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-co-ban-6-cucghi-da-p8292949.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;679000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;679000;;;;;;;;;;;;;;
+PRODUCT;;1;Gilê đai lệch to_Đen;Nữ,Áo ghi lê nữ (GLN);729000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/402eced4720fd2ce2cc59ee0a84140b6b0a43204.jpg,images/yody/full/4a7f15e80c33052f2040867303f046ad2915e032.jpg,images/yody/full/64c854ef64d411c0c60fd4a8b1e299e7a9e3a292.jpg,images/yody/full/d762604d794c4cb87d5f2df89824257ee88a7134.jpg;Gilê đai lệch to_Đen,Gilê đai lệch to_Đen,Gilê đai lệch to_Đen,Gilê đai lệch to_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-dai-lech-toden-p7650844.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;729000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;729000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;729000;;;;;;;;;;;;;;
+PRODUCT;;1;Gilê cổ điển_Rêu (04068048_DA.REU);Nữ,Áo ghi lê nữ (GLN);989000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/673651705689a9a721bed48578b0f7e2a9fe6bb2.jpg,images/yody/full/16f8998a41adbd25ed3cd602b80394bffac2e1ec.jpg,images/yody/full/574cad2c2b082de59c8a9213ec82f2fcf4cb0ab1.jpg;Gilê cổ điển_Rêu (04068048_DA.REU),Gilê cổ điển_Rêu (04068048_DA.REU),Gilê cổ điển_Rêu (04068048_DA.REU);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-co-dienreu-04068048da.reu-p5355367.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;989000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;989000;;;;;;;;;;;;;;
+PRODUCT;;1;GILE lưới_Đen(GLN005_BLA);Nữ,Áo ghi lê nữ (GLN);689000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/209b01efa1343f6b92ca459b95762cb3c43c1691.jpg,images/yody/full/8b03c9c4088edc8dc8fc2736d1ec6b75ddd072f0.jpg,images/yody/full/84aaa42c31c5baebd0288a9ac7cebebb5c1137de.jpg;GILE lưới_Đen(GLN005_BLA),GILE lưới_Đen(GLN005_BLA),GILE lưới_Đen(GLN005_BLA);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-luoidengln005bla-p4972334.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;689000;;;;;;;;;;;;;;
+PRODUCT;;1;Gile cơ bản 6 cúc_Đen;Nữ,Áo ghi lê nữ (GLN);679000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/ae99400cebbb3bb8686fa9dcd16bff08028b090b.jpg,images/yody/full/cf15a4cf7bdb0421e30ce984badeb53876a6c705.jpg,images/yody/full/313198ab569f11583358e04eb606db22377a81e5.jpg,images/yody/full/8421fe9381884c723b07df98ccb9864eeffd3ad2.jpg,images/yody/full/bc474ce410f61ec26ae86329bde157f478072239.jpg;Gile cơ bản 6 cúc_Đen,Gile cơ bản 6 cúc_Đen,Gile cơ bản 6 cúc_Đen,Gile cơ bản 6 cúc_Đen,Gile cơ bản 6 cúc_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-co-ban-6-cucden-p8292952.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;679000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;679000;;;;;;;;;;;;;;
+PRODUCT;;1;Gile vạt chéo_Kẻ sọc xanh;Nữ,Áo ghi lê nữ (GLN);699000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/7daa845270b6d7a6bd8085ef5d73494cf484aefc.jpg,images/yody/full/cadaab6b8db4450bd5feae9a4fed8a6ab16687ad.jpg,images/yody/full/159939d4e2e7ff677b1a75e73db73afd84c8c1c1.jpg;Gile vạt chéo_Kẻ sọc xanh,Gile vạt chéo_Kẻ sọc xanh,Gile vạt chéo_Kẻ sọc xanh;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-vat-cheoke-soc-xanh-p8508124.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;699000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;699000;;;;;;;;;;;;;;
+PRODUCT;;1;Gile vạt chéo_Kẻ sọc hồng;Nữ,Áo ghi lê nữ (GLN);699000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/bd34e6744ffe75ce11a195f62bb0ef70412865d0.jpg,images/yody/full/7056d4644afa58cb9732da3d63db9a871118a4c0.jpg,images/yody/full/c2a9bc6d81a32b350a33f55ca2747962fb78e65f.jpg,images/yody/full/7cc68fa8b5c056fd1dba6fcfc5a1c20b353dff54.jpg;Gile vạt chéo_Kẻ sọc hồng,Gile vạt chéo_Kẻ sọc hồng,Gile vạt chéo_Kẻ sọc hồng,Gile vạt chéo_Kẻ sọc hồng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-vat-cheoke-soc-hong-p8508127.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;699000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;699000;;;;;;;;;;;;;;
+PRODUCT;;1;Gile ôm 4 cúc_Hồng;Nữ,Áo ghi lê nữ (GLN);689000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/4a3f2b884496146b89bb0152de1dab6c44964a43.jpg,images/yody/full/a121524d135fa5b8053a606b836ff83c82ab8707.jpg,images/yody/full/aa8b8dbe40bc11c88e6b6e305e11f15dfd0c96c6.jpg,images/yody/full/752f6b792bce8a82aa8f85c1ae914d8458eb7f7a.jpg,images/yody/full/66878e4c83e77fad8194154aa0e0b526b113c536.jpg;Gile ôm 4 cúc_Hồng,Gile ôm 4 cúc_Hồng,Gile ôm 4 cúc_Hồng,Gile ôm 4 cúc_Hồng,Gile ôm 4 cúc_Hồng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-om-4-cuchong-p8838026.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;689000;;;;;;;;;;;;;;
+PRODUCT;;1;Gile ôm 4 cúc_Xanh ghi;Nữ,Áo ghi lê nữ (GLN);689000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/1f3701a421c6b139c2e05ca4608c24b98feb4312.jpg,images/yody/full/2456c9ac03a86b6a7ca72bc65b5c1a5138300862.jpg,images/yody/full/e5efffb68130eb7e327d22a85a06720afd131bc2.jpg,images/yody/full/cf9b7ecef20152827cd0348448a5436803ef8272.jpg;Gile ôm 4 cúc_Xanh ghi,Gile ôm 4 cúc_Xanh ghi,Gile ôm 4 cúc_Xanh ghi,Gile ôm 4 cúc_Xanh ghi;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-om-4-cucxanh-ghi-p8838030.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;689000;;;;;;;;;;;;;;
+PRODUCT;;1;Gile suông 6 cúc_Đen;Nữ,Áo ghi lê nữ (GLN);699000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/c3781bbf44f487007c8666d572bd3711b9ff6e90.jpg,images/yody/full/a7ebe763ba6fa75f61196ad533b9318f0265467a.jpg,images/yody/full/c0dc2eebcb55593fe437afb56048c6a20cb75c8e.jpg,images/yody/full/e2f30fe6d68ce3b310c3f7456a32cfb612b571b7.jpg;Gile suông 6 cúc_Đen,Gile suông 6 cúc_Đen,Gile suông 6 cúc_Đen,Gile suông 6 cúc_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-suong-6-cucden-p8949658.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;699000;;;;;;;;;;;;;;
+PRODUCT;;1;Gile ôm 4 cúc_Trắng;Nữ,Áo ghi lê nữ (GLN);689000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/02b3b99743c8df95edd57d14797a7e3da2843e41.jpg,images/yody/full/73b4f2525aed597a0bb46130ef016aa846ceb31e.jpg,images/yody/full/68ce717c924f4509376f828a03ddc6aef4a625c8.jpg,images/yody/full/9c2fe7bf27ac0bc2ea7f9acb9a82f9973563ffd6.jpg;Gile ôm 4 cúc_Trắng,Gile ôm 4 cúc_Trắng,Gile ôm 4 cúc_Trắng,Gile ôm 4 cúc_Trắng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-om-4-cuctrang-p8838034.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;689000;;;;;;;;;;;;;;
+PRODUCT;;1;Gile suông 6 cúc_Bã trầu;Nữ,Áo ghi lê nữ (GLN);699000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/1d935b9cd64193fcb505eaf57bbeae2865394558.jpg,images/yody/full/7e554498a9d269cb91151dd75417194b6de942ec.jpg,images/yody/full/5a4967e611a3b964edc85f9ea45be8d221fd00b6.jpg,images/yody/full/f76f7db1eb0b6b6f64c992f0f25d5ba23eafa1c9.jpg,images/yody/full/7d462a2091a768044df94c486cc9f1000c1e08d5.jpg;Gile suông 6 cúc_Bã trầu,Gile suông 6 cúc_Bã trầu,Gile suông 6 cúc_Bã trầu,Gile suông 6 cúc_Bã trầu,Gile suông 6 cúc_Bã trầu;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/gile-suong-6-cucba-trau-p8949660.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-ghi-le-nu-gln-pc74169.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;699000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần da cá phối sọc_Xám sọc sọc đen;Nam,Quần sooc nam (QSM);269000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/c591657490510a695225e5a842d5b4c536da30de.jpg,images/yody/full/71b48a64e57650ac648e0083e4f11db33fbc96b2.jpg,images/yody/full/e6ffc88d3e66a04d9607ada0a9a15581fc9aaaca.jpg,images/yody/full/f462b97d2c401688ffa8b22b2b98311ed11bae1c.jpg;Quần da cá phối sọc_Xám sọc sọc đen,Quần da cá phối sọc_Xám sọc sọc đen,Quần da cá phối sọc_Xám sọc sọc đen,Quần da cá phối sọc_Xám sọc sọc đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-da-ca-phoi-socxam-soc-soc-den-p6748674.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;269000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;269000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;269000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần da cá phối sọc_Đen sọc xám;Nam,Quần sooc nam (QSM);269000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/510bccd1676884c8321677e737f56091c5a5e2ee.jpg;Quần da cá phối sọc_Đen sọc xám;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-da-ca-phoi-socden-soc-xam-p6748679.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;269000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;269000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;269000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;269000;;;;;;;;;;;;;;
+PRODUCT;;1;Sooc âu nam 1_Đốm đen;Nam,Quần sooc nam (QSM);379000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/2287f0a6e18197b5ec9f8d71ce89ac199e65f7ef.jpg,images/yody/full/9025eaea02a26193cf9a7c9cba9b20bfa81c2589.jpg,images/yody/full/af6a821fc305d616cf7988a689402f3955bb07b5.jpg,images/yody/full/af223023d590243da22a9388202ed6d0390abb09.jpg;Sooc âu nam 1_Đốm đen,Sooc âu nam 1_Đốm đen,Sooc âu nam 1_Đốm đen,Sooc âu nam 1_Đốm đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/sooc-au-nam-1dom-den-p7235974.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;379000;;;;;;;;;;;;;;
+PRODUCT;;1;Sooc âu nam 1_Ngọc;Nam,Quần sooc nam (QSM);379000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/fe5273599cab2f03c29dd242ecfb6650d455b41c.jpg,images/yody/full/b39592320c4ad9237f250b008a026f7396487f01.jpg,images/yody/full/de4974408bb0c0568840df27803e1268dafe041b.jpg,images/yody/full/8d19b81a1a340629cf883baacf521d4c5544cca6.jpg;Sooc âu nam 1_Ngọc,Sooc âu nam 1_Ngọc,Sooc âu nam 1_Ngọc,Sooc âu nam 1_Ngọc;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/sooc-au-nam-1ngoc-p7235940.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;379000;;;;;;;;;;;;;;
+PRODUCT;;1;Sooc âu nam_Đen;Nam,Quần sooc nam (QSM);379000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/38d74e17f34b662151f022d40d64b9a57655cbad.jpg,images/yody/full/7458512c86985dac8ad3fa9510e10dc4e6abbc1c.jpg,images/yody/full/44f11b293ab3b0ca018d310c9e45f1e6935c1f56.jpg,images/yody/full/3039174091102b188014288fbdccfaddee248b73.jpg,images/yody/full/acd14b72e21824f9f7c317bf6ba61203e3004f8e.jpg;Sooc âu nam_Đen,Sooc âu nam_Đen,Sooc âu nam_Đen,Sooc âu nam_Đen,Sooc âu nam_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/sooc-au-namden-p7235989.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;379000;;;;;;;;;;;;;;
+PRODUCT;;1;Sooc nam kaki trơn_Đỏ;Nam,Quần sooc nam (QSM);299000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/d9eb901909b57b0efcc13a0bc7538c479775f2ea.jpg,images/yody/full/3627a95e1e6b5918433bc2c32e2df64371c6fd02.jpg,images/yody/full/ac914c96514f219c735770d4640284db3d4f410b.jpg,images/yody/full/120314bc3304fc21d5361fae2cdd0c0d74f3423a.jpg;Sooc nam kaki trơn_Đỏ,Sooc nam kaki trơn_Đỏ,Sooc nam kaki trơn_Đỏ,Sooc nam kaki trơn_Đỏ;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/sooc-nam-kaki-trondo-p7054801.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;299000;;;;;;;;;;;;;;
+PRODUCT;;1;Sooc kaki slim 01_Be;Nam,Quần sooc nam (QSM);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/b9992f8749b64cef73778840fc11bff764ef66ed.jpg,images/yody/full/490eb5cf31fb1504494e8f0e0fb179333f6e88b6.jpg,images/yody/full/d15cdcafa3ce3f8deff589bddae405cba712c54d.jpg,images/yody/full/509e185ca89778e8d714982825628681cfb6a07e.jpg;Sooc kaki slim 01_Be,Sooc kaki slim 01_Be,Sooc kaki slim 01_Be,Sooc kaki slim 01_Be;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/sooc-kaki-slim-01be-p10485324.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;;;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;Sooc kaki slim 01_Ghi;Nam,Quần sooc nam (QSM);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/800e08049501763db4dff5af03712f7ab4e8babb.jpg,images/yody/full/017f590e81e5c060cbeaf9033b3a5e0bf02fe724.jpg,images/yody/full/a5888541161cb86c482b302315610e955b2751ee.jpg,images/yody/full/d97abe4739aaac1327a1c4bbadf80928cb46cff8.jpg,images/yody/full/29b034f5d3d3c2c43fccdbce28291fd427095dc8.jpg;Sooc kaki slim 01_Ghi,Sooc kaki slim 01_Ghi,Sooc kaki slim 01_Ghi,Sooc kaki slim 01_Ghi,Sooc kaki slim 01_Ghi;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/sooc-kaki-slim-01ghi-p10485331.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;;;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;Sooc kaki slim 01_Vàng;Nam,Quần sooc nam (QSM);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/36148fc794478210ebfbd1e807f4136cab2bf399.jpg,images/yody/full/b6b9e88751cac509eed49fb7b589fea939c96ba8.jpg,images/yody/full/eb913955451a49c431357c863b1c403d30493c3e.jpg,images/yody/full/dd3f8c0c8e103f4c114768b7eb071c83b511e585.jpg;Sooc kaki slim 01_Vàng,Sooc kaki slim 01_Vàng,Sooc kaki slim 01_Vàng,Sooc kaki slim 01_Vàng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/sooc-kaki-slim-01vang-p10485337.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;;;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;Sooc kaki slim 01_Xanh lam;Nam,Quần sooc nam (QSM);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/c6451c00177c90c1800a9162a0df6b9c204c7e31.jpg,images/yody/full/3bc3e8837e536b866cbdb72f8942554b3f5c6126.jpg,images/yody/full/641bb9257b2a8eed9dfe170290eedce0d3839402.jpg,images/yody/full/dd6a208f02b30bb171e1bc5123621fc7c1af1f88.jpg;Sooc kaki slim 01_Xanh lam,Sooc kaki slim 01_Xanh lam,Sooc kaki slim 01_Xanh lam,Sooc kaki slim 01_Xanh lam;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/sooc-kaki-slim-01xanh-lam-p10485349.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;;;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần sooc da cá bộ túi_Xám nhạt;Nam,Quần sooc nam (QSM);279000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/06b5bda2dd06195a2d73a56381ac2c82aa25c2c4.jpg,images/yody/full/fd9783af9bd2620b83bbbdecad3d7b71d388b547.jpg,images/yody/full/2e0b9f34190baefcde1cef5ae77a3d762825f413.jpg;Quần sooc da cá bộ túi_Xám nhạt,Quần sooc da cá bộ túi_Xám nhạt,Quần sooc da cá bộ túi_Xám nhạt;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-sooc-da-ca-bo-tuixam-nhat-p10531810.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;279000;;;;;;;;;;;;;;
+PRODUCT;;1;Sooc kaki slim 01_Navy;Nam,Quần sooc nam (QSM);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/d6d872b3b1bfaca801086d88d1e5ecf4e0109624.jpg,images/yody/full/1f7c58c137b16232b101f5c8d2852c7f33abd10a.jpg,images/yody/full/e7202de45f65ae823b6a03660545b02456d69d03.jpg,images/yody/full/adda677e9a672c4abb9499efd82f6d8ffc4b258e.jpg;Sooc kaki slim 01_Navy,Sooc kaki slim 01_Navy,Sooc kaki slim 01_Navy,Sooc kaki slim 01_Navy;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/sooc-kaki-slim-01navy-p10485355.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;;;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần sooc nam in chữ_Đỏ mận;Nam,Quần sooc nam (QSM);399000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/84874c69cd5b40368a97bbdfa2da03284444ef92.jpg,images/yody/full/faae43ec0d25aa20803b7cb5087e37fec8ceb5c4.jpg,images/yody/full/aa67e1ae0a5f3a171d75aab41b6e6179b50b62a3.jpg,images/yody/full/254a87f87cb34b21a742e2b14f1f5c81c1ed79a3.jpg;Quần sooc nam in chữ_Đỏ mận,Quần sooc nam in chữ_Đỏ mận,Quần sooc nam in chữ_Đỏ mận,Quần sooc nam in chữ_Đỏ mận;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-sooc-nam-in-chudo-man-p10832990.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;399000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần sooc nam in chữ_Nâu;Nam,Quần sooc nam (QSM);399000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/9eaf72359aec9716e8b4c0a1c4c12bbf37306c0b.jpg,images/yody/full/f9cc848aad915e7957b778259799445f9ff1bf39.jpg,images/yody/full/433257b55b4e222a6d9d6a354d258eaea35860ac.jpg,images/yody/full/6e48c60c4b73bd7d90b6ab16ce46c11f68cd1690.jpg,images/yody/full/2514dfe6dc4c0ce41f5f5bb81f7174936056a932.jpg;Quần sooc nam in chữ_Nâu,Quần sooc nam in chữ_Nâu,Quần sooc nam in chữ_Nâu,Quần sooc nam in chữ_Nâu,Quần sooc nam in chữ_Nâu;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-sooc-nam-in-chunau-p10832995.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;399000;;;;;;;;;;;;;;
+PRODUCT;;1;Sooc slim kaki họa tiết_Be;Nam,Quần sooc nam (QSM);349000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/912b3d8861ae751bcf558ba2c1945ab59c9354dd.jpg,images/yody/full/ab4c8cbe646789bc6da5fc1da95285f2fd96cbda.jpg,images/yody/full/dae72c6d52d4bce9ede8b5ff8a0148cfa45d1b0a.jpg,images/yody/full/9bee19ce93970c48ae981bf7bfd05121a8c3d9a9.jpg,images/yody/full/4ac7ba6c819b54f8158f702064652ba3e722b6b8.jpg;Sooc slim kaki họa tiết_Be,Sooc slim kaki họa tiết_Be,Sooc slim kaki họa tiết_Be,Sooc slim kaki họa tiết_Be,Sooc slim kaki họa tiết_Be;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/sooc-slim-kaki-hoa-tietbe-p10956026.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;;;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;349000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần sooc da cá bộ túi_Đen;Nam,Quần sooc nam (QSM);279000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/da11ef4b9dae1465b5ac15b616b76310db34535f.jpg,images/yody/full/396dad09c0b0130c4e3872feff2e2e4c0afe2585.jpg,images/yody/full/8fc7ad6b8c08a2c4e6f2fb00c7f889c990343996.jpg,images/yody/full/e2c9462b0d86277c178833208da3dfc28c422912.jpg,images/yody/full/ceb97706f55ce79f14b764abf7f809e459ef3e68.jpg,images/yody/full/c112a550795d395d13939e2fe606cc618fb9884f.jpg;Quần sooc da cá bộ túi_Đen,Quần sooc da cá bộ túi_Đen,Quần sooc da cá bộ túi_Đen,Quần sooc da cá bộ túi_Đen,Quần sooc da cá bộ túi_Đen,Quần sooc da cá bộ túi_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-sooc-da-ca-bo-tuiden-p10531800.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;279000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần sooc da cá bộ túi_Xám đậm;Nam,Quần sooc nam (QSM);279000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/eb62477ab2effca127e51378fdd7b763a3f70552.jpg,images/yody/full/03e51baf9cf412782051db10675505eb5c5be4ff.jpg,images/yody/full/831191029854a2fc8a8c112ae62c1c155388d832.jpg,images/yody/full/6dc90bcfa02939ae830fbebc4a9a3b0917a0400c.jpg;Quần sooc da cá bộ túi_Xám đậm,Quần sooc da cá bộ túi_Xám đậm,Quần sooc da cá bộ túi_Xám đậm,Quần sooc da cá bộ túi_Xám đậm;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-sooc-da-ca-bo-tuixam-dam-p10531805.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;279000;;;;;;;;;;;;;;
+PRODUCT;;1;Sooc slim kaki họa tiết_Đen;Nam,Quần sooc nam (QSM);349000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/b4a9a78249037ccf7b5ca0b332b74bcebcfba49b.jpg,images/yody/full/7529a4a581b1b9da6066ae674aa358c3bf710eb5.jpg,images/yody/full/d6473bca0bee186fdbcdcca9f5b65632c84fa6be.jpg,images/yody/full/eca3ce81f1dccccdfa01891c0803f22a5b509ee4.jpg,images/yody/full/542a16c48d06601ce309657138cb0451b1ffe6cf.jpg;Sooc slim kaki họa tiết_Đen,Sooc slim kaki họa tiết_Đen,Sooc slim kaki họa tiết_Đen,Sooc slim kaki họa tiết_Đen,Sooc slim kaki họa tiết_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/sooc-slim-kaki-hoa-tietden-p10956050.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;;;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;349000;;;;;;;;;;;;;;
+PRODUCT;;1;Sooc slim kaki họa tiết_Rêu;Nam,Quần sooc nam (QSM);349000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/26a861dd599ded7971b14209cdac8df3964b696a.jpg,images/yody/full/f0db2097469e573904076906b33bdfe867fc625b.jpg,images/yody/full/e04af3392fd1c67a97bc77a621f0842f2623f551.jpg,images/yody/full/ef5226ba0af08f2baf03e7ef5e4539ff25fa585a.jpg,images/yody/full/aee0f0a108f1e8f03ab2579f029ec48f21132b4f.jpg;Sooc slim kaki họa tiết_Rêu,Sooc slim kaki họa tiết_Rêu,Sooc slim kaki họa tiết_Rêu,Sooc slim kaki họa tiết_Rêu,Sooc slim kaki họa tiết_Rêu;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/sooc-slim-kaki-hoa-tietreu-p10956038.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;;;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;349000;;;;;;;;;;;;;;
+PRODUCT;;1;Sooc slim kaki họa tiết_Tím than;Nam,Quần sooc nam (QSM);349000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/ea80ccba411ea0985b6fa97241e9cf3dce2b0d23.jpg,images/yody/full/fa31dab7c44569115abb7811e68879db2bb24e21.jpg,images/yody/full/f8d91bd139e20fb0c0f23d4e661f80cd6ec31fe8.jpg,images/yody/full/9b6a3f29cfca24f3493feffe74ff2f06e03d2e32.jpg;Sooc slim kaki họa tiết_Tím than,Sooc slim kaki họa tiết_Tím than,Sooc slim kaki họa tiết_Tím than,Sooc slim kaki họa tiết_Tím than;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/sooc-slim-kaki-hoa-tiettim-than-p10956044.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;;;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;349000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nỉ nữ dài tay_Tím than(BDN14_THM);Nữ,Bộ quần áo nữ (BDN);429000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/1f97df338bb27676f7fe09ca45e96d091c9b0da3.jpg,images/yody/full/3af29e1f555ab8646f5eb3b0cf7c2d069cbacdd8.jpg,images/yody/full/b69c93dc3f488587c72e5f2e502dc4a5db4164b6.jpg;Bộ nỉ nữ dài tay_Tím than(BDN14_THM),Bộ nỉ nữ dài tay_Tím than(BDN14_THM),Bộ nỉ nữ dài tay_Tím than(BDN14_THM);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-ni-nu-dai-taytim-thanbdn14thm-p5468704.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;429000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;429000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;429000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần sooc nam in sườn_Xám nhạt;Nam,Quần sooc nam (QSM);299000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/0a6c56ef7225ea2ca16a0fe9549402a08c53e80b.jpg,images/yody/full/e51f0c5f690ea85cc4cb9aeebfcbcba52bc28dbd.jpg,images/yody/full/0bbb88030ef5d82961d17923919cc2ccebf24d97.jpg,images/yody/full/1f0758ac5d47ed0c9e8af7a495e6321e3ad8fa32.jpg,images/yody/full/27b4cd6179d6842b09e197bffcaeb83835362b8e.jpg;Quần sooc nam in sườn_Xám nhạt,Quần sooc nam in sườn_Xám nhạt,Quần sooc nam in sườn_Xám nhạt,Quần sooc nam in sườn_Xám nhạt,Quần sooc nam in sườn_Xám nhạt;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-sooc-nam-in-suonxam-nhat-p12105248.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-sooc-nam-qsm-pc182045.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;299000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nỉ nữ kẻ_Tàn đậm(BDN15_TDM);Nữ,Bộ quần áo nữ (BDN);429000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/fc90d67c38eecb70861692ef8f82e7592a02d20a.jpg,images/yody/full/86d540832f54d3ee2d1ff6faa12849a846039a80.jpg,images/yody/full/d5a28f1dc925342ac9f2d55c7ce8d7b7b09551e7.jpg;Bộ nỉ nữ kẻ_Tàn đậm(BDN15_TDM),Bộ nỉ nữ kẻ_Tàn đậm(BDN15_TDM),Bộ nỉ nữ kẻ_Tàn đậm(BDN15_TDM);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-ni-nu-ketan-dambdn15tdm-p5468708.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;429000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;429000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;429000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ ren rubic_Be (01001216_RE.BEI);Nữ,Bộ quần áo nữ (BDN);789000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/c489c6c6e79f8fe1e440b8090bfc9ca871c31066.jpg,images/yody/full/0d8d855ee1e38037d33fcb15ad90266117c32657.jpg,images/yody/full/74fe4f63cff21613f0f837ebdad9356af9b69267.jpg,images/yody/full/2a5fb2a8ddccb4993fcc93992fa3c54fd9a250d2.jpg,images/yody/full/4ff2d6a3e0d3428599aa6394b84ac34242a5367a.jpg,images/yody/full/5e1ae2c49a0e2f717564e716ea9ac77c5ddb576a.jpg;Bộ ren rubic_Be (01001216_RE.BEI),Bộ ren rubic_Be (01001216_RE.BEI),Bộ ren rubic_Be (01001216_RE.BEI),Bộ ren rubic_Be (01001216_RE.BEI),Bộ ren rubic_Be (01001216_RE.BEI),Bộ ren rubic_Be (01001216_RE.BEI);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-ren-rubicbe-01001216re.bei-p5660428.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;789000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;789000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;789000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ ren rubic_Hồng(01001216_RE.PIN);Nữ,Bộ quần áo nữ (BDN);789000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/4ac8466d5451a0073f0055af60122e33d9a4b937.jpg,images/yody/full/f5350cfc92411ca3aa0722b6850716d2551f7002.jpg,images/yody/full/02703801e450543f6d80157a4ef530d62fe552de.jpg,images/yody/full/a79bc03049a92be568b9a3f32b9e50b6a29ff36b.jpg;Bộ ren rubic_Hồng(01001216_RE.PIN),Bộ ren rubic_Hồng(01001216_RE.PIN),Bộ ren rubic_Hồng(01001216_RE.PIN),Bộ ren rubic_Hồng(01001216_RE.PIN);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-ren-rubichong01001216re.pin-p5660424.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;789000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;789000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;789000;;;;;;;;;;;;;;
+PRODUCT;;1;SET VEST MIX REN_Ghi(BDN008_GRA);Nữ,Bộ quần áo nữ (BDN);889000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/820d5273c2e808aebe922cb81a4065e5c749cc0e.jpg,images/yody/full/761bc98ce036ef9327d43ed841d058425a7170ff.jpg,images/yody/full/3620d674280608607c0d69f83b8e1f2a61cdd7e8.jpg,images/yody/full/f352b9ae88c38ef1d889ea2f928fe3cf0acd0ec4.jpg;SET VEST MIX REN_Ghi(BDN008_GRA),SET VEST MIX REN_Ghi(BDN008_GRA),SET VEST MIX REN_Ghi(BDN008_GRA),SET VEST MIX REN_Ghi(BDN008_GRA);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/set-vest-mix-renghibdn008gra-p5766241.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;889000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;889000;;;;;;;;;;;;;;
+PRODUCT;;1;SET VEST MIX REN_Hồng(BDN008_PIN);Nữ,Bộ quần áo nữ (BDN);889000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/41e093759150ca5ed59997ba2632ffc22372c5ee.jpg,images/yody/full/fc9213bd27d258a61dde93af7eb49c631da782da.jpg,images/yody/full/b8a3b1228a7c42d2b9dfd683a5fb82032a24aa63.jpg,images/yody/full/1df4c56b1ab97d4482d83c4551939b12c0c7b553.jpg;SET VEST MIX REN_Hồng(BDN008_PIN),SET VEST MIX REN_Hồng(BDN008_PIN),SET VEST MIX REN_Hồng(BDN008_PIN),SET VEST MIX REN_Hồng(BDN008_PIN);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/set-vest-mix-renhongbdn008pin-p5766238.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;889000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;889000;;;;;;;;;;;;;;
+PRODUCT;;1;Jump giả váy_Kẻ đỏ;Nữ,Bộ quần áo nữ (BDN);489000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/ca6a5a8be017793e7b88b46b44f035b6009cc826.jpg,images/yody/full/9f26cc6e5502eb9d05aca22f2465bd56918e4301.jpg,images/yody/full/7d74113e85be58b4fa26468e10b0f2af76913eee.jpg;Jump giả váy_Kẻ đỏ,Jump giả váy_Kẻ đỏ,Jump giả váy_Kẻ đỏ;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/jump-gia-vayke-do-p6150302.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;489000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;489000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nữ phối viền_Tàn viền đen;Nữ,Bộ quần áo nữ (BDN);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/72ab2bab4ba7dbfb349fca1d8ed2d4be139e4abe.jpg,images/yody/full/5293141b2238fb6bed0382b1ffff017b3d18c152.jpg,images/yody/full/a98cbd8e68a2b0bcb74eaac6fcfb1d8d584157ee.jpg,images/yody/full/1d2910c86e7f014eda2e30dbb2e436cb93a4052e.jpg;Bộ nữ phối viền_Tàn viền đen,Bộ nữ phối viền_Tàn viền đen,Bộ nữ phối viền_Tàn viền đen,Bộ nữ phối viền_Tàn viền đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-phoi-vientan-vien-den-p6388999.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nữ in hình_Tàn;Nữ,Bộ quần áo nữ (BDN);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/0c6a907784e1e68bffd2010f3f87db66f9e863d6.jpg,images/yody/full/0fdb26e02d6a12278b0a796f3c1b17ad842048e1.jpg,images/yody/full/381dd2caf1c7771e52ff8d3b8d1f5e397fcb1b5e.jpg;Bộ nữ in hình_Tàn,Bộ nữ in hình_Tàn,Bộ nữ in hình_Tàn;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-in-hinhtan-p6710541.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;bộ nữ cổ tròn tay dài_Xám;Nữ,Bộ quần áo nữ (BDN);399000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/9175b7a41a09f8be7f6a5dca2258e4d4de318bee.jpg,images/yody/full/320302003e554962d1b92aec435a7563b5928828.jpg,images/yody/full/03a0abdebe7c41a3f5b7dc4745f6988bb2f28d24.jpg,images/yody/full/f62e243710aa7666ecb5e4d55218e4c08eb6d495.jpg;bộ nữ cổ tròn tay dài_Xám,bộ nữ cổ tròn tay dài_Xám,bộ nữ cổ tròn tay dài_Xám,bộ nữ cổ tròn tay dài_Xám;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-co-tron-tay-daixam-p8415236.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;399000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nữ cổ tròn in_Hồng;Nữ,Bộ quần áo nữ (BDN);499000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/2c9bbf58a27dbc49e8bdcee46ded9cb418f241b3.jpg,images/yody/full/f4614e1c2b76758041b9d24eeb72fc7c7c03b0d4.jpg,images/yody/full/bac74e0760839e047f43f68ac80ac1f445492c2a.jpg,images/yody/full/18f1cbda4cfc4e28b236bbc0cbe01d7f4e85acab.jpg,images/yody/full/743199a1b9f646245bdf339b779d2c0a3d2b70ff.jpg;Bộ nữ cổ tròn in_Hồng,Bộ nữ cổ tròn in_Hồng,Bộ nữ cổ tròn in_Hồng,Bộ nữ cổ tròn in_Hồng,Bộ nữ cổ tròn in_Hồng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-co-tron-inhong-p8507842.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;499000;;;;;;;;;;;;;;
+PRODUCT;;1;bộ nữ cổ tròn tay dài_Vàng;Nữ,Bộ quần áo nữ (BDN);399000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/f62e243710aa7666ecb5e4d55218e4c08eb6d495.jpg,images/yody/full/e057ff6cb1c2523416d8a7678538a80766650c5f.jpg,images/yody/full/9175b7a41a09f8be7f6a5dca2258e4d4de318bee.jpg,images/yody/full/03a0abdebe7c41a3f5b7dc4745f6988bb2f28d24.jpg;bộ nữ cổ tròn tay dài_Vàng,bộ nữ cổ tròn tay dài_Vàng,bộ nữ cổ tròn tay dài_Vàng,bộ nữ cổ tròn tay dài_Vàng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-co-tron-tay-daivang-p8415240.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;399000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nữ cổ tròn in_Xám;Nữ,Bộ quần áo nữ (BDN);499000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/b419b4a088ddeed9dc5fff1a61dd5460c73d162b.jpg,images/yody/full/ccd8d7a4bf24c04b32056f81968828f6b84500b1.jpg,images/yody/full/4f69a9d1a3292e3b4ecf912eac8d3cbadb1f9935.jpg,images/yody/full/a22205ad0b4829b45af46910eb8923eb90a0fb72.jpg;Bộ nữ cổ tròn in_Xám,Bộ nữ cổ tròn in_Xám,Bộ nữ cổ tròn in_Xám,Bộ nữ cổ tròn in_Xám;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-co-tron-inxam-p8507846.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;499000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nữ cổ tròn in_Tím than;Nữ,Bộ quần áo nữ (BDN);499000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/4f69a9d1a3292e3b4ecf912eac8d3cbadb1f9935.jpg,images/yody/full/7a1b84136ff571fe63cb656087de2649ef3c0c0e.jpg,images/yody/full/a22205ad0b4829b45af46910eb8923eb90a0fb72.jpg,images/yody/full/b419b4a088ddeed9dc5fff1a61dd5460c73d162b.jpg;Bộ nữ cổ tròn in_Tím than,Bộ nữ cổ tròn in_Tím than,Bộ nữ cổ tròn in_Tím than,Bộ nữ cổ tròn in_Tím than;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-co-tron-intim-than-p8507850.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;499000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nữ cổ tròn in_Nâu;Nữ,Bộ quần áo nữ (BDN);499000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/df4c123d0cee73373ca3997d841b15151bdafe7b.jpg,images/yody/full/6f8df1d3c8e708a30f8c60a2eddf9a8ed9d729d3.jpg,images/yody/full/2bc5026826988cd5217d2307d7fb96cc1e2a2b5c.jpg,images/yody/full/361e9d6ddbe38cc2be325a71ddbc8c5457e5ab38.jpg;Bộ nữ cổ tròn in_Nâu,Bộ nữ cổ tròn in_Nâu,Bộ nữ cổ tròn in_Nâu,Bộ nữ cổ tròn in_Nâu;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-co-tron-innau-p8507854.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;499000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nữ cổ tròn in_Tàn sáng;Nữ,Bộ quần áo nữ (BDN);499000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/2bc5026826988cd5217d2307d7fb96cc1e2a2b5c.jpg,images/yody/full/d43c74fdd8ae87109f72a2fa63c5a8d72b035a0b.jpg,images/yody/full/df4c123d0cee73373ca3997d841b15151bdafe7b.jpg,images/yody/full/361e9d6ddbe38cc2be325a71ddbc8c5457e5ab38.jpg;Bộ nữ cổ tròn in_Tàn sáng,Bộ nữ cổ tròn in_Tàn sáng,Bộ nữ cổ tròn in_Tàn sáng,Bộ nữ cổ tròn in_Tàn sáng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-co-tron-intan-sang-p8507858.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;499000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ vest chân A phối đen_Đỏ đô;Nữ,Bộ quần áo nữ (BDN);1129000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/dce78f2d77e531f03ac32b4644f5f17d6f0567bd.jpg,images/yody/full/7be305ff68f868fa45b461ec54fd8c7c1c4e6312.jpg,images/yody/full/486e3532be785d952c17fed7e5ce8d3c6a3f5975.jpg,images/yody/full/4327719896784ccf4548dbaecb74371bd2d427c7.jpg,images/yody/full/8437cbf34dc7387920439bdb8a9767734fe1f0a5.jpg;Bộ vest chân A phối đen_Đỏ đô,Bộ vest chân A phối đen_Đỏ đô,Bộ vest chân A phối đen_Đỏ đô,Bộ vest chân A phối đen_Đỏ đô,Bộ vest chân A phối đen_Đỏ đô;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-vest-chan-a-phoi-dendo-do-p8611662.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;1129000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;1129000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;1129000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nữ mũ sọc trắng_Đỏ đô;Nữ,Bộ quần áo nữ (BDN);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/dbb3ffa45243d06355eeead87e9cd6d1e1f2f76a.jpg,images/yody/full/b626a4cae368185fd2c7b941dfa6760a5b54eceb.jpg,images/yody/full/49c8ba96f41bff02cee1dd1ba9d3146521361ce2.jpg,images/yody/full/ebddfd468325eafea6649947a23927e36f8a5774.jpg;Bộ nữ mũ sọc trắng_Đỏ đô,Bộ nữ mũ sọc trắng_Đỏ đô,Bộ nữ mũ sọc trắng_Đỏ đô,Bộ nữ mũ sọc trắng_Đỏ đô;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-mu-soc-trangdo-do-p8675821.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nữ mũ sọc trắng_Tàn đậm;Nữ,Bộ quần áo nữ (BDN);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/e340721c3982681319d53968e6054a02ad06063d.jpg,images/yody/full/b5295fe4c4fc14cda2386cab61445eda64c77ee6.jpg,images/yody/full/bab1217fb7afaaecc6cc7ad9b8e7a81e539c7ed8.jpg,images/yody/full/2661e0dd10dbe7c3fb376a3df9c29867bce99ee3.jpg,images/yody/full/c67c4632b357af0bb2da648882440e27c3e24f7a.jpg;Bộ nữ mũ sọc trắng_Tàn đậm,Bộ nữ mũ sọc trắng_Tàn đậm,Bộ nữ mũ sọc trắng_Tàn đậm,Bộ nữ mũ sọc trắng_Tàn đậm,Bộ nữ mũ sọc trắng_Tàn đậm;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-mu-soc-trangtan-dam-p8675817.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nữ mũ sọc trắng_Đen;Nữ,Bộ quần áo nữ (BDN);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/49c8ba96f41bff02cee1dd1ba9d3146521361ce2.jpg,images/yody/full/6960663dd1414ea6682322c84aa576b3c9afeb3f.jpg,images/yody/full/dbb3ffa45243d06355eeead87e9cd6d1e1f2f76a.jpg,images/yody/full/ebddfd468325eafea6649947a23927e36f8a5774.jpg;Bộ nữ mũ sọc trắng_Đen,Bộ nữ mũ sọc trắng_Đen,Bộ nữ mũ sọc trắng_Đen,Bộ nữ mũ sọc trắng_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-mu-soc-trangden-p8675825.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nữ mũ sọc trắng_Tím than;Nữ,Bộ quần áo nữ (BDN);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/7773b9a4d96da5e12a7dd82ff576d44a9c16b6fe.jpg,images/yody/full/77fe49f36c5589c62f5a855464511a158078bcc6.jpg,images/yody/full/c8c3f7054b733d86d13776fba175e405cbd2c08a.jpg,images/yody/full/4b077621b8ea6285e0a4d59663601eeb0630dad1.jpg;Bộ nữ mũ sọc trắng_Tím than,Bộ nữ mũ sọc trắng_Tím than,Bộ nữ mũ sọc trắng_Tím than,Bộ nữ mũ sọc trắng_Tím than;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-mu-soc-trangtim-than-p8675829.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nữ tay Raglan_Đen;Nữ,Bộ quần áo nữ (BDN);499000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/f834b54bc498a578bcb47618a0f7c120c1c99db1.jpg,images/yody/full/0153ea7ef00a21184c7d0aa7f4711ae56c9811b1.jpg,images/yody/full/61ed296917e80470fdda504b3e0f961b4de242b4.jpg,images/yody/full/c1f342e96c3f739a789f0a74080a7537a415baa1.jpg,images/yody/full/d498941efff8c7df754fd5737cfeff3aa1ec37a2.jpg;Bộ nữ tay Raglan_Đen,Bộ nữ tay Raglan_Đen,Bộ nữ tay Raglan_Đen,Bộ nữ tay Raglan_Đen,Bộ nữ tay Raglan_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-tay-raglanden-p9555262.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;499000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nữ mũ sọc trắng_Bộ đội;Nữ,Bộ quần áo nữ (BDN);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/c8c3f7054b733d86d13776fba175e405cbd2c08a.jpg,images/yody/full/08fdf8851640e238946eb9ea010fd975789d5f5a.jpg,images/yody/full/4b077621b8ea6285e0a4d59663601eeb0630dad1.jpg,images/yody/full/7773b9a4d96da5e12a7dd82ff576d44a9c16b6fe.jpg;Bộ nữ mũ sọc trắng_Bộ đội,Bộ nữ mũ sọc trắng_Bộ đội,Bộ nữ mũ sọc trắng_Bộ đội,Bộ nữ mũ sọc trắng_Bộ đội;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-nu-mu-soc-trangbo-doi-p8675833.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Polo phối sườn_Trắng;Nam,Áo phông nam (APM);379000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/3f2ae3b5b16737d3abdde7a31b5d7274ec020f11.jpg,images/yody/full/ea52eea84f294d4b0d9f7a0481cb412b24d61130.jpg,images/yody/full/c7900206008ef09d386ebac2e6e89332e807e377.jpg,images/yody/full/3f2ae3b5b16737d3abdde7a31b5d7274ec020f11.jpg,images/yody/full/80ffad2d03a0c85b226fa681dbcc1fed62eea977.jpg;Polo phối sườn_Trắng,Polo phối sườn_Trắng,Polo phối sườn_Trắng,Polo phối sườn_Trắng,Polo phối sườn_Trắng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/polo-phoi-suontrang-p12067265.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;;;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;379000;;;;;;;;;;;;;;
+PRODUCT;;1;Polo phối in ngang_Đỏ/Đô;Nam,Áo phông nam (APM);379000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/9b92a8bf87664af89ba31966eec2cf07595c61b4.jpg,images/yody/full/b474048bc9df1151fd4d8106b74090d62f4dbf79.jpg,images/yody/full/9f4c591790ec10031554a3fd0c9fac2641c758ba.jpg,images/yody/full/13b3b791afe0da945173023d8058941361cecae4.jpg,images/yody/full/a5eff37ab2c294dd2e591160202d18953d82c8a5.jpg;Polo phối in ngang_Đỏ/Đô,Polo phối in ngang_Đỏ/Đô,Polo phối in ngang_Đỏ/Đô,Polo phối in ngang_Đỏ/Đô,Polo phối in ngang_Đỏ/Đô;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/polo-phoi-in-ngangdodo-p12067259.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;;;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;379000;;;;;;;;;;;;;;
+PRODUCT;;1;Bộ nỉ nữ cổ tròn 02_Xanh nhạt;Nữ,Bộ quần áo nữ (BDN);429000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/4f4547cebd5a7360dd040748162a393d346e77a2.jpg,images/yody/full/c76804948721c9b76a9bd93922477f61f3543e62.jpg,images/yody/full/84a9ab6afe4aa9d95a72a795c05502cbf865414f.jpg;Bộ nỉ nữ cổ tròn 02_Xanh nhạt,Bộ nỉ nữ cổ tròn 02_Xanh nhạt,Bộ nỉ nữ cổ tròn 02_Xanh nhạt;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/bo-ni-nu-co-tron-02xanh-nhat-p9411170.html;https://yody.vn/nu-pc42844.html,https://yody.vn/bo-quan-ao-nu-bdn-pc90784.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;429000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;429000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;429000;;;;;;;;;;;;;;
+PRODUCT;;1;Polo phối vai_Trắng/Tím than;Nam,Áo phông nam (APM);379000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/7043dc051dce8ede91aa96e6b6853570f87e1702.jpg,images/yody/full/36a6c2554ce40d12279c238de8c08b8dce2e4ec1.jpg,images/yody/full/96bee6892b7a59575800c259dd43f6edda18eef7.jpg,images/yody/full/46f480b7bd8445fed724816f9a79a02fa7a326e5.jpg,images/yody/full/db45f9dbcfbb9d666c33347187a18b932cb01e0e.jpg;Polo phối vai_Trắng/Tím than,Polo phối vai_Trắng/Tím than,Polo phối vai_Trắng/Tím than,Polo phối vai_Trắng/Tím than,Polo phối vai_Trắng/Tím than;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/polo-phoi-vaitrangtim-than-p12067271.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;;;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;379000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo nam in YWAF đỏ_Trắng;Nam,Áo phông nam (APM);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/be757ce56eab9bf73e76a201fcdb58ada09a1dcf.jpg,images/yody/full/a68b4d3e43101039b32d4a4b34c8515d0058bdc4.jpg,images/yody/full/d30ad6326bb708d47d16272b12b16789f181e70f.jpg,images/yody/full/6cd49f79747e25b191588d7ba519af8581f74da9.jpg,images/yody/full/0eab72ca038f2791ac5becd16ad65bce7d7006f6.jpg;Áo nam in YWAF đỏ_Trắng,Áo nam in YWAF đỏ_Trắng,Áo nam in YWAF đỏ_Trắng,Áo nam in YWAF đỏ_Trắng,Áo nam in YWAF đỏ_Trắng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-nam-in-ywaf-dotrang-p12193310.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo nam in HELLO_Trắng;Nam,Áo phông nam (APM);299000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/8f88bc6dbe39234cfcf2bcf204fbb8f357b247e8.jpg,images/yody/full/a7992a85244571d0ea416cca03412358ddc1d347.jpg,images/yody/full/eabfd153265bcd4fd7490bf833e5d8de33588aae.jpg,images/yody/full/7bf80d38d0615f26a1365dfcbee2a5fadaf85148.jpg;Áo nam in HELLO_Trắng,Áo nam in HELLO_Trắng,Áo nam in HELLO_Trắng,Áo nam in HELLO_Trắng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-nam-in-hellotrang-p12112966.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;299000;;;;;;;;;;;;;;
+PRODUCT;;1;Polo phối vai_Trắng/Đỏ;Nam,Áo phông nam (APM);379000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/221751a92fed9968fa237d481516d994f943af28.jpg,images/yody/full/01a8ff8d9bc15bb4319187b9d228f919ecad7e65.jpg,images/yody/full/331ce35da92294324ac4276ca0067683c61b6848.jpg,images/yody/full/e844ec469f3b45a53bbfbb9f72dac2d8c30f5c7c.jpg,images/yody/full/8e170e311df49e107f594222a480b1d3cb884882.jpg;Polo phối vai_Trắng/Đỏ,Polo phối vai_Trắng/Đỏ,Polo phối vai_Trắng/Đỏ,Polo phối vai_Trắng/Đỏ,Polo phối vai_Trắng/Đỏ;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/polo-phoi-vaitrangdo-p12067276.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;;;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;379000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;379000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo nam in WE ARE YODYER_Trắng;Nam,Áo phông nam (APM);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/94b0ecca9c88b29915f738fed97598d7e64ca766.jpg,images/yody/full/3e80f59e73c0b5066a60c2057b9eedf85a523b9b.jpg,images/yody/full/6c59ef09cedc5f44eadda0ff6666a9659ffdc6e7.jpg,images/yody/full/2218905022114c3669153afb5ce59b32e222a545.jpg,images/yody/full/b1126d6dfbf945eea9c1b4a876806e2871b7417a.jpg;Áo nam in WE ARE YODYER_Trắng,Áo nam in WE ARE YODYER_Trắng,Áo nam in WE ARE YODYER_Trắng,Áo nam in WE ARE YODYER_Trắng,Áo nam in WE ARE YODYER_Trắng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-nam-in-we-are-yodyertrang-p12193300.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo nam in YWAF đỏ_Đen;Nam,Áo phông nam (APM);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/e573f9566560719054e717351d2d103157736701.jpg,images/yody/full/52d99660004b57f23e6087a3818260116564cfcb.jpg,images/yody/full/f1f277799c01d40bda58c3be03b908fb81e1103b.jpg,images/yody/full/52ae983d9363d6032fa7e2d78b95d5f306b92764.jpg,images/yody/full/e573f9566560719054e717351d2d103157736701.jpg,images/yody/full/952efc79c3f6e9f8039b2544b95f164171ac046b.jpg;Áo nam in YWAF đỏ_Đen,Áo nam in YWAF đỏ_Đen,Áo nam in YWAF đỏ_Đen,Áo nam in YWAF đỏ_Đen,Áo nam in YWAF đỏ_Đen,Áo nam in YWAF đỏ_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-nam-in-ywaf-doden-p12193315.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo polo melange cổ đức_Xanh xám;Nam,Áo phông nam (APM);299000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/09294a1086e1fbb1d7ab6d3a7069f93982f35df9.jpg,images/yody/full/62a64b7f6a5bd8b4d2b32b8db9f8d7eaa31e48ff.jpg,images/yody/full/75989aaf5cf6a8bb52dacb9cadcc8521d64b94fb.jpg;Áo polo melange cổ đức_Xanh xám,Áo polo melange cổ đức_Xanh xám,Áo polo melange cổ đức_Xanh xám;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-polo-melange-co-ducxanh-xam-p12623054.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;299000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo phông nam YODY LOVE YOU 01_Trắng;Nam,Áo phông nam (APM);249000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/b6844770021472c56761a33ac56c7f019d684bf4.jpg,images/yody/full/45632aa18c798cd72e572a3317119534abfe5e1c.jpg,images/yody/full/4cd221401ce737fe1f2587deabb29500173eb785.jpg,images/yody/full/b6844770021472c56761a33ac56c7f019d684bf4.jpg,images/yody/full/fad7ebb16906b798b027fae497ab2c751b232fd2.jpg,images/yody/full/cb419ef1c4f4b3d92889d93af21959b4b987c072.jpg;Áo phông nam YODY LOVE YOU 01_Trắng,Áo phông nam YODY LOVE YOU 01_Trắng,Áo phông nam YODY LOVE YOU 01_Trắng,Áo phông nam YODY LOVE YOU 01_Trắng,Áo phông nam YODY LOVE YOU 01_Trắng,Áo phông nam YODY LOVE YOU 01_Trắng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-phong-nam-yody-love-you-01trang-p12824357.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;;;;;;249000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;249000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;249000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;249000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;249000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo nam melange tay lơ ve_Xanh biển;Nam,Áo phông nam (APM);279000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/ef64464fd0307c600cf2d78a0fd7af5b1d8b37f7.jpg,images/yody/full/0b871293880c1d0015f9fe6cba581ed0ee498e56.jpg,images/yody/full/d65dd950039a0bc09bf8c928a5ed5c9e6b4453fd.jpg,images/yody/full/cae7b9f73b454d3a4a4a87966a4e7e90f2d7f53b.jpg;Áo nam melange tay lơ ve_Xanh biển,Áo nam melange tay lơ ve_Xanh biển,Áo nam melange tay lơ ve_Xanh biển,Áo nam melange tay lơ ve_Xanh biển;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-nam-melange-tay-lo-vexanh-bien-p12495108.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;279000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo nam in YODY lỗ_Tàn sáng;Nam,Áo phông nam (APM);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/c6771b6a0b970bbc2493a585f85e61ba1975c751.jpg,images/yody/full/dbe9d77ee7b72058021aa7bb1eba9e196357abda.jpg,images/yody/full/7bf80d38d0615f26a1365dfcbee2a5fadaf85148.jpg,images/yody/full/b56b479ca59810e88997dbbc5f58c0bfb14ac600.jpg,images/yody/full/82d6fa963197476c88def4acb8f0fb5bd37e1e25.jpg;Áo nam in YODY lỗ_Tàn sáng,Áo nam in YODY lỗ_Tàn sáng,Áo nam in YODY lỗ_Tàn sáng,Áo nam in YODY lỗ_Tàn sáng,Áo nam in YODY lỗ_Tàn sáng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-nam-in-yody-lotan-sang-p12666391.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo polo melange cổ đức_Đen;Nam,Áo phông nam (APM);299000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/81bab6a06c95f96e06349521f735bedb0b5fe214.jpg,images/yody/full/9577058a972e09db1a3a8ef7ffeb5c063deb4666.jpg,images/yody/full/bc1f139efa73318866e39a604fb405cd4147ee59.jpg,images/yody/full/c8439ba2b353948af87bbf739ede5ac013d38efb.jpg,images/yody/full/d3584e39ba7b6c767c71dea41ef60f332cc3f30c.jpg;Áo polo melange cổ đức_Đen,Áo polo melange cổ đức_Đen,Áo polo melange cổ đức_Đen,Áo polo melange cổ đức_Đen,Áo polo melange cổ đức_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-polo-melange-co-ducden-p12623036.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;299000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo thun nam can thân trước_Tím than;Nam,Áo phông nam (APM);279000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/01ac0ef11712283d97b9e50dfbcd1598a8051795.jpg,images/yody/full/1d70bc5c6994325e8f43293c6640a3519c73731d.jpg,images/yody/full/ae44a18bdd28fadf62e72f891c0ad32e56d432fc.jpg,images/yody/full/4d0fceef23090e8c080b94fdb9ae1090ab13da9c.jpg,images/yody/full/5d61f59a7dfb8f5663418451ff9fed6f5adf4d0b.jpg;Áo thun nam can thân trước_Tím than,Áo thun nam can thân trước_Tím than,Áo thun nam can thân trước_Tím than,Áo thun nam can thân trước_Tím than,Áo thun nam can thân trước_Tím than;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-thun-nam-can-than-truoctim-than-p12428259.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;279000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo nam melange tay lơ ve_Rêu;Nam,Áo phông nam (APM);279000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/5a0af4551cd47986624e50933575d66222a616f4.jpg,images/yody/full/ce2a9340e47819c47a90def70d3a3681631c6a96.jpg,images/yody/full/9eb47001e8783d61bb4cb06b2463828ee2302787.jpg,images/yody/full/957a70a56ee2e02f7d22c0cf18489ef0d4b5196f.jpg,images/yody/full/e3913a6a0cdd15b4d1db18ff490532c634e8946c.jpg;Áo nam melange tay lơ ve_Rêu,Áo nam melange tay lơ ve_Rêu,Áo nam melange tay lơ ve_Rêu,Áo nam melange tay lơ ve_Rêu,Áo nam melange tay lơ ve_Rêu;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-nam-melange-tay-lo-vereu-p12495118.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;279000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo phông nam YODY LOVE YOU 02_Trắng;Nam,Áo phông nam (APM);249000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/ef9eccbfd3c4ef3a99a8e6fed22f2dccfa082dde.jpg,images/yody/full/19ac064b5766a116c914de8038d1abed217c44e8.jpg,images/yody/full/6d27c91ef5fcb4894b784bcdfb77ee49e88b5caa.jpg;Áo phông nam YODY LOVE YOU 02_Trắng,Áo phông nam YODY LOVE YOU 02_Trắng,Áo phông nam YODY LOVE YOU 02_Trắng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-phong-nam-yody-love-you-02trang-p12824361.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;;;;;;249000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;249000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;249000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;249000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;249000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo polo melange cổ đức_Lông chuột;Nam,Áo phông nam (APM);299000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/9a995abe424a1c6d3bdc575277bcdaf2dd4f13c6.jpg,images/yody/full/c7bd858de88ce98b28a50e058385adf596374c09.jpg,images/yody/full/bb93cbbb1ecfb9df8dd43fe6f908aa9feec201e6.jpg,images/yody/full/b246587fb4023d725ff14617b1929b567aa8ab04.jpg,images/yody/full/faf2fc3cffcdae3d6dd79792977b7886ea7be7d2.jpg;Áo polo melange cổ đức_Lông chuột,Áo polo melange cổ đức_Lông chuột,Áo polo melange cổ đức_Lông chuột,Áo polo melange cổ đức_Lông chuột,Áo polo melange cổ đức_Lông chuột;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-polo-melange-co-duclong-chuot-p12623048.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;299000;;;;;;;;;;;;;;
+PRODUCT;;1;Aó phao nữ YODY_Quả trám hồng đỏ(PHN2_QTHD);Nữ,Áo phao nữ (PHN);689000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/99841cb54f06aa75fa73f99a997d192c45efeb39.jpg,images/yody/full/d20bf8e39717acece8c7b5804c0f2780bb3b655c.jpg;Aó phao nữ YODY_Quả trám hồng đỏ(PHN2_QTHD),Aó phao nữ YODY_Quả trám hồng đỏ(PHN2_QTHD);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-phao-nu-yodyqua-tram-hong-dophn2qthd-p3246114.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-phao-nu-phn-pc80927.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;689000;;;;;;;;;;;;;;
+PRODUCT;;1;Aó phao nữ YODY_Quả trám vàng(PHN2_QTV);Nữ,Áo phao nữ (PHN);689000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/f8c11a209301231280968114f1c569a708ed732d.jpg,images/yody/full/e2b040d3385c4028b08e10278187815466fac735.jpg;Aó phao nữ YODY_Quả trám vàng(PHN2_QTV),Aó phao nữ YODY_Quả trám vàng(PHN2_QTV);0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-phao-nu-yodyqua-tram-vangphn2qtv-p3246105.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-phao-nu-phn-pc80927.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;689000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;689000;;;;;;;;;;;;;;
+PRODUCT;;1;Phông nam polo pique cổ sọc_Đỏ;Nam,Áo phông nam (APM);299000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/38aa27f67ddae61caa5e764ac41f0ee95a099772.jpg,images/yody/full/7eba7f5eace3352c4eaf3749076137474d5be45e.jpg,images/yody/full/3ca0a48f0214965cf85b408b75d1f7743ac0a835.jpg,images/yody/full/a884832326cb3d503cc4fa0c18ec31f0f09de6e1.jpg;Phông nam polo pique cổ sọc_Đỏ,Phông nam polo pique cổ sọc_Đỏ,Phông nam polo pique cổ sọc_Đỏ,Phông nam polo pique cổ sọc_Đỏ;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/phong-nam-polo-pique-co-socdo-p11935336.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;299000;;;;;;;;;;;;;;
+PRODUCT;;1;Phông nam polo pique cổ bẻ_Xanh lơ;Nam,Áo phông nam (APM);299000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/ab5299775c8dd290a0fb0b98c96b9ede235639e5.jpg,images/yody/full/5eec325bbd4a006fd5fea9fb6a4692db057a3386.jpg,images/yody/full/614bb0a8e2b991aadd68fefa925fd80f2214ad1f.jpg,images/yody/full/7f4b33c871c331f550f9e5f4f03476868ecbff67.jpg,images/yody/full/1737752260abde707328b454f1e1217903aaf223.jpg;Phông nam polo pique cổ bẻ_Xanh lơ,Phông nam polo pique cổ bẻ_Xanh lơ,Phông nam polo pique cổ bẻ_Xanh lơ,Phông nam polo pique cổ bẻ_Xanh lơ,Phông nam polo pique cổ bẻ_Xanh lơ;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/phong-nam-polo-pique-co-bexanh-lo-p11933766.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;299000;;;;;;;;;;;;;;
+PRODUCT;;1;Polo pha phối_Trắng/Tím than;Nam,Áo phông nam (APM);349000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/bab8070f7cfcd96ef4507eadc8e9e9411eff6976.jpg,images/yody/full/a2dc928ba8123549cd5d7c09e7ba89bc1c560ae1.jpg,images/yody/full/879efd77cdad125332da22f7082652f67f905b17.jpg,images/yody/full/09aa068f46e7761834b04b4c9929686826b11d52.jpg;Polo pha phối_Trắng/Tím than,Polo pha phối_Trắng/Tím than,Polo pha phối_Trắng/Tím than,Polo pha phối_Trắng/Tím than;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/polo-pha-phoitrangtim-than-p12067244.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;;;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;349000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo polo melange cổ đức_Ghi;Nam,Áo phông nam (APM);299000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/65029412d478dacf6680a25678078ddd205e3721.jpg,images/yody/full/46a9ca45ab2908cac85c7567ee6ea1d446d4b347.jpg,images/yody/full/f8fc46b0544c85570fe12114f36cc03bc5c84e3f.jpg,images/yody/full/d35ead5928927b265e8605bea98ee11fa942b87b.jpg;Áo polo melange cổ đức_Ghi,Áo polo melange cổ đức_Ghi,Áo polo melange cổ đức_Ghi,Áo polo melange cổ đức_Ghi;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-polo-melange-co-ducghi-p12623060.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;299000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;299000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo thun nam can thân trước_Mận;Nam,Áo phông nam (APM);279000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/adb0a91efce6655fe8e4e8e4b874c873e2d1b686.jpg,images/yody/full/b8c4a417d80e534e97e7d0061e2d1008e7e3ba0f.jpg,images/yody/full/cccdfe6f7059ac71d17e233a8a0397fe3af89ddb.jpg,images/yody/full/cbbf3f93b490bc6177ea12855d0f9016a1ee0bd8.jpg,images/yody/full/0081024ffa7a132221217bf45f75e9c60c8f0180.jpg;Áo thun nam can thân trước_Mận,Áo thun nam can thân trước_Mận,Áo thun nam can thân trước_Mận,Áo thun nam can thân trước_Mận,Áo thun nam can thân trước_Mận;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-thun-nam-can-than-truocman-p12428264.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;279000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo nam melange tay lơ ve_Đỏ đô;Nam,Áo phông nam (APM);279000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/b72e64cf069ffb020f94590d35c61d22ca30530c.jpg,images/yody/full/20feb44fa8a36df71b7ae123c814b5b377109a80.jpg,images/yody/full/d83f74f82bba04e2d8192699e39e7ef4226b993d.jpg,images/yody/full/8ce2686c2c3cb4bd669330885fea927be8fb1b24.jpg,images/yody/full/b877c47a653e38e0f55eaf526494e81023c3f061.jpg;Áo nam melange tay lơ ve_Đỏ đô,Áo nam melange tay lơ ve_Đỏ đô,Áo nam melange tay lơ ve_Đỏ đô,Áo nam melange tay lơ ve_Đỏ đô,Áo nam melange tay lơ ve_Đỏ đô;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-nam-melange-tay-lo-vedo-do-p12495113.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-phong-nam-apm-pc42834.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;279000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo chống nắng nữ_Xanh cổ vịt;Nữ,Áo chống nắng (ACN);279000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/7e746c96b7b54815798f789f8c0eb9a3e8fc574e.jpg;Áo chống nắng nữ_Xanh cổ vịt;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-chong-nang-nuxanh-co-vit-p6472063.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-chong-nang-acn-pc102884.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;279000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo chống nắng da cá_Rượu;Nữ,Áo chống nắng (ACN);349000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/30231ae688238dc90f8face74ba24cfb3dca5e6f.jpg;Áo chống nắng da cá_Rượu;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-chong-nang-da-caruou-p6676672.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-chong-nang-acn-pc102884.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;349000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo chống nắng da cá_Cát cháy;Nữ,Áo chống nắng (ACN);349000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/d11f440ea89bb85b1ddc6ce64ca0bc0fd8a3ff1e.jpg;Áo chống nắng da cá_Cát cháy;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-chong-nang-da-cacat-chay-p6676680.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-chong-nang-acn-pc102884.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;349000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;349000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo chống nắng lưới_Xám;Nữ,Áo chống nắng (ACN);289000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/591c1971174688af24ff857210a6be653ba918aa.jpg;Áo chống nắng lưới_Xám;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-chong-nang-luoixam-p6676704.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-chong-nang-acn-pc102884.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;289000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;289000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;289000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;289000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo chống nắng nữ_Tím;Nữ,Áo chống nắng (ACN);279000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/cf771ca9480e887625cf9bb5f6544da4103d224e.jpg;Áo chống nắng nữ_Tím;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-chong-nang-nutim-p6810565.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-chong-nang-acn-pc102884.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;279000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;279000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo chống nắng hai lớp_Hồng cam;Nữ,Áo chống nắng (ACN);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/f4db4b46bdc303630b881e41a908a026c84322b1.jpg,images/yody/full/58f4db48c5b3371f7383e8453ba30451bb8d8054.jpg,images/yody/full/e5b78d2f251ef00e93bef049d103f4e9e9abb5fe.jpg,images/yody/full/5d2bc9c6e2eba8694e4b4b0abd7461c3f64a472e.jpg,images/yody/full/f924896d6156b2a95d229fa311989bd7390c687a.jpg,images/yody/full/c382248f6028e55b806a4f71d2ae650a198c3c9d.jpg;Áo chống nắng hai lớp_Hồng cam,Áo chống nắng hai lớp_Hồng cam,Áo chống nắng hai lớp_Hồng cam,Áo chống nắng hai lớp_Hồng cam,Áo chống nắng hai lớp_Hồng cam,Áo chống nắng hai lớp_Hồng cam;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-chong-nang-hai-lophong-cam-p12106544.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-chong-nang-acn-pc102884.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam_Xám vàng;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/2411031518d828b1f5d52e64897e7c42327d3042.jpg,images/yody/full/95fe67ce0ff26f8c08dca518a27c883ff581a22d.jpg,images/yody/full/96a5cb5b649761cf8a2e136ad3044de6c37c0e9b.jpg;Quần âu nam_Xám vàng,Quần âu nam_Xám vàng,Quần âu nam_Xám vàng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-namxam-vang-p6723496.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo chống nắng lưới_Cam;Nữ,Áo chống nắng (ACN);289000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;Lưu ý sử dụng sản phẩm:;;;;;;In Stock;;1;;;1;images/yody/full/69c7dc76c125379d2eb80c07dd2d52221eb4388b.jpg;Áo chống nắng lưới_Cam;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-chong-nang-luoicam-p6676709.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-chong-nang-acn-pc102884.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;289000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;289000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;289000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;289000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo chống nắng hai lớp_Cam;Nữ,Áo chống nắng (ACN);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/d9011d14a2d5bcb46308b915fef103fa32996126.jpg,images/yody/full/b1a5bb456f48c7c9b643dd557c687aae9829ef5b.jpg,images/yody/full/f8f80246ff7471f2dbe817a44139be933df11f87.jpg,images/yody/full/8d3bb143536d43a80267fda08b1df3b072722893.jpg,images/yody/full/a76d0c17b237a03bbf3b4cfd239e616adf4fa00c.jpg,images/yody/full/e3c2230a7fca74129edd255fae14a469ea7a21da.jpg,images/yody/full/fc88807539fbf15d7c01d374fa5de07574de6b53.jpg,images/yody/full/6d197d894c1724aca0c7663b12fd4f40499eeb02.jpg;Áo chống nắng hai lớp_Cam,Áo chống nắng hai lớp_Cam,Áo chống nắng hai lớp_Cam,Áo chống nắng hai lớp_Cam,Áo chống nắng hai lớp_Cam,Áo chống nắng hai lớp_Cam,Áo chống nắng hai lớp_Cam,Áo chống nắng hai lớp_Cam;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-chong-nang-hai-lopcam-p12073051.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-chong-nang-acn-pc102884.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo khoác nam có mũ 01_Ghi;Nam,Áo khoác nam (AKM);399000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/7c59985022e949a53f7069c69dbf4119609cd9da.jpg,images/yody/full/d38dec782afa5f10816b9f5e008f16c6b3cbc238.jpg,images/yody/full/26561b1c04e5fc9df8a001a2b25b408c7cc35c33.jpg,images/yody/full/75b022906470bd759215fffe4158dcd7d17d0962.jpg;Áo khoác nam có mũ 01_Ghi,Áo khoác nam có mũ 01_Ghi,Áo khoác nam có mũ 01_Ghi,Áo khoác nam có mũ 01_Ghi;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-khoac-nam-co-mu-01ghi-p8115061.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-khoac-nam-akm-pc42836.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;399000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo chống nắng hai lớp_Hồng;Nữ,Áo chống nắng (ACN);329000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/671f2f80f76f17fcec29e5c0af2811a54396deb8.jpg,images/yody/full/e83b6fe83b94fa1f21ab8c6a6ba1afa850ab38c9.jpg,images/yody/full/c0b6d080ae3aa4f462d2cbe8e4ff456c7f7c4dd9.jpg,images/yody/full/bd06b99f2c5e84aee770b85ce2922bcd561a205e.jpg,images/yody/full/57fa0cc12fd10e5080f60079107ed691773e13d1.jpg,images/yody/full/094115be6024353aaa3c9783824c65930c5b8117.jpg,images/yody/full/ca490be9adf7157e4b3d96dd2246d41e65e0d3a7.jpg;Áo chống nắng hai lớp_Hồng,Áo chống nắng hai lớp_Hồng,Áo chống nắng hai lớp_Hồng,Áo chống nắng hai lớp_Hồng,Áo chống nắng hai lớp_Hồng,Áo chống nắng hai lớp_Hồng,Áo chống nắng hai lớp_Hồng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-chong-nang-hai-lophong-p12073046.html;https://yody.vn/nu-pc42844.html,https://yody.vn/ao-chong-nang-acn-pc102884.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;329000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;329000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam_Xám đậm;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/c69d80d4370c303ac7164e7367a62534cc6ec2f1.jpg,images/yody/full/1ff0f9a5e850284b4636e7c29d3db8712ff934b1.jpg,images/yody/full/aacc35af663d5f7c8eeb31ca9074bb27079610f8.jpg,images/yody/full/7c5da607c3d4d649eeb519f3030c7eaac7b6c9c1.jpg;Quần âu nam_Xám đậm,Quần âu nam_Xám đậm,Quần âu nam_Xám đậm,Quần âu nam_Xám đậm;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-namxam-dam-p6606511.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo khoác nam có mũ 01_Xanh;Nam,Áo khoác nam (AKM);399000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/6bd1a8a65c37450159e07b0040bf22c77c1682cc.jpg,images/yody/full/221a2b9814bd97ee65b0f5ad1c8c0951ef990ad3.jpg,images/yody/full/a83c20b28c2a753ced7cb51db0309271f6419b9e.jpg,images/yody/full/9c3ea1c5b1fa1b0ece85446812be6040f2ac4321.jpg;Áo khoác nam có mũ 01_Xanh,Áo khoác nam có mũ 01_Xanh,Áo khoác nam có mũ 01_Xanh,Áo khoác nam có mũ 01_Xanh;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-khoac-nam-co-mu-01xanh-p8115075.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-khoac-nam-akm-pc42836.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;399000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo khoác nam có mũ 02_Mận;Nam,Áo khoác nam (AKM);399000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/08a402dbabc768ff32363918b48355709c95d19e.jpg,images/yody/full/49073fff19f5a0e69330469c55ddc9d47189f182.jpg,images/yody/full/887a184f70fc7f24f9f6657e5b69b27b7b72f753.jpg,images/yody/full/d8a396d1cc5ec2a0d3fb9a482c0bbbbeb4eff384.jpg;Áo khoác nam có mũ 02_Mận,Áo khoác nam có mũ 02_Mận,Áo khoác nam có mũ 02_Mận,Áo khoác nam có mũ 02_Mận;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-khoac-nam-co-mu-02man-p8115079.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-khoac-nam-akm-pc42836.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;399000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;399000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam_Xanh ghi;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/d93cf39934247486250c0957cb8ab0d692590b4a.jpg,images/yody/full/129a8a54eeb9686bd7f94eacbec0ff5d2cfac052.jpg,images/yody/full/1bb5bd83e9a5e482b9b8159cadf925a86842bdc9.jpg,images/yody/full/378340e98a11c3114086a21fd31e997f478037ae.jpg,images/yody/full/75f268c7f361cad16926cea4e4e40f8d12823bcf.jpg;Quần âu nam_Xanh ghi,Quần âu nam_Xanh ghi,Quần âu nam_Xanh ghi,Quần âu nam_Xanh ghi,Quần âu nam_Xanh ghi;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-namxanh-ghi-p7347210.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam_Xanh lam đậm;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/782ec7a94ea92bd50384db6d9286d0439cf5251e.jpg,images/yody/full/6bb19d5e7591247ed14f5439a62156301e7c4947.jpg,images/yody/full/afcdf634daec89445cf957d44fba5e8596710096.jpg,images/yody/full/eb34ce74f8aeac4628fbb298363dd031b2d364bc.jpg,images/yody/full/252ff48becf308a0c88f0b76ac2e9209e8bbc357.jpg,images/yody/full/e9e962756d82d134b365a55e0b694ffb99f5afcf.jpg;Quần âu nam_Xanh lam đậm,Quần âu nam_Xanh lam đậm,Quần âu nam_Xanh lam đậm,Quần âu nam_Xanh lam đậm,Quần âu nam_Xanh lam đậm,Quần âu nam_Xanh lam đậm;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-namxanh-lam-dam-p7347197.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam_Xám đậm 1;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/bda217ebed5a3415c19751a22e10dc848a27a046.jpg,images/yody/full/d742a7c0524b7f84f324359d8322fa8116163897.jpg,images/yody/full/7dc789813da0ec241c31b88dbfcf888b42203ff4.jpg,images/yody/full/eeaa7090defe9de59ee61f23443f016101792558.jpg,images/yody/full/3811db873795c78ae9eeb68efa89dac7cdf27829.jpg,images/yody/full/c2acb8a018e2981c1b307410ae49a0008804da37.jpg;Quần âu nam_Xám đậm 1,Quần âu nam_Xám đậm 1,Quần âu nam_Xám đậm 1,Quần âu nam_Xám đậm 1,Quần âu nam_Xám đậm 1,Quần âu nam_Xám đậm 1;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-namxam-dam-1-p7347271.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam ôm 3_Đen xám;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/1893a43f10c4861d18838041aa2c7d7b49fa7080.jpg,images/yody/full/21c0cd845a32804b6d2afdf0c4f8422301e412a0.jpg,images/yody/full/f875a58b6ec4ab1e92610030629bac29969df795.jpg,images/yody/full/b693ca7c4c1d0c8cf810794dc1f2aeda53b6a0f6.jpg,images/yody/full/1f946ec738132511a64791e4b908cf8561097a40.jpg,images/yody/full/1b0a8b26204d809a56f90691f147fc4075fb991b.jpg;Quần âu nam ôm 3_Đen xám,Quần âu nam ôm 3_Đen xám,Quần âu nam ôm 3_Đen xám,Quần âu nam ôm 3_Đen xám,Quần âu nam ôm 3_Đen xám,Quần âu nam ôm 3_Đen xám;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-om-3den-xam-p7416139.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;12/XXXL;12/XXXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam suông 1_Xanh;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/8778b00134e69d972fd551fe64094278b444c2b6.jpg,images/yody/full/80a906c4d67000f71c42b0a16e9a2ee5678f34b7.jpg,images/yody/full/c3d0d85b0845ab094fe1c101530ffda98155002d.jpg,images/yody/full/b8dff261b419f3a5019abfde522c794d21da3390.jpg;Quần âu nam suông 1_Xanh,Quần âu nam suông 1_Xanh,Quần âu nam suông 1_Xanh,Quần âu nam suông 1_Xanh;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-suong-1xanh-p7416166.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;12/XXXL;12/XXXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam suông 1_Xanh đen;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/8b58ed299016fb2abc4651896daf8ad64238b525.jpg,images/yody/full/37cb561f60b4ef084f0c8039bd322cf48813c58d.jpg,images/yody/full/45112cdfffdf0d84e17be6a1938e74cb6cfbff05.jpg,images/yody/full/7bd5ae272b5d2159aa5821494f5c061ccab449e9.jpg;Quần âu nam suông 1_Xanh đen,Quần âu nam suông 1_Xanh đen,Quần âu nam suông 1_Xanh đen,Quần âu nam suông 1_Xanh đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-suong-1xanh-den-p7416159.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;12/XXXL;12/XXXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam suông 2_Nâu;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/04b5173f0de5c3202bd062d8ccfeb4d91a0f4095.jpg,images/yody/full/a47005c9900d8664a4d2904f93250a1db2c89bbf.jpg,images/yody/full/060c36001b2b08a55ea2fb487f06b5ba492e2010.jpg,images/yody/full/586be80f7aa09120c5358ed9f37a0783a02dd7e3.jpg,images/yody/full/f85a2b86fd08e0a9f9157153293121c359d9af56.jpg;Quần âu nam suông 2_Nâu,Quần âu nam suông 2_Nâu,Quần âu nam suông 2_Nâu,Quần âu nam suông 2_Nâu,Quần âu nam suông 2_Nâu;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-suong-2nau-p7416187.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;12/XXXL;12/XXXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam suông 03_Sọc xám;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/9390321b5e8e24916cc315d9c0ec1e964fa0e0ee.jpg,images/yody/full/12c116303b536fea2ef71b4ab59ce5f752514329.jpg,images/yody/full/eac39dc7e68537083c47202ef7aecb2f4220b1ea.jpg,images/yody/full/dcac1f003ac6a3e769afcca88a73446d8fb703c0.jpg;Quần âu nam suông 03_Sọc xám,Quần âu nam suông 03_Sọc xám,Quần âu nam suông 03_Sọc xám,Quần âu nam suông 03_Sọc xám;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-suong-03soc-xam-p8002494.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam suông 2_Xám nâu;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/f6ebfab0caeefb230df8ebf04ca466b699f36daa.jpg,images/yody/full/6fd0be3a7fdb338b929a244db7ff9195089e488a.jpg,images/yody/full/bb0912428e635831f260408a00c95ee1f769cb18.jpg,images/yody/full/1c39a5cb18e31e20cb9f544a6a8efaf677f08ded.jpg;Quần âu nam suông 2_Xám nâu,Quần âu nam suông 2_Xám nâu,Quần âu nam suông 2_Xám nâu,Quần âu nam suông 2_Xám nâu;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-suong-2xam-nau-p7416201.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;12/XXXL;12/XXXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam suông 03_Đốm xám;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/cbdfab9acc02c9f8a39016fe76cdf636ec7fb19c.jpg,images/yody/full/cd5355871135c876778390463247e7c5a06c42c6.jpg,images/yody/full/c175c63dde2f2aadbab913656dbd3aa50d38aed5.jpg,images/yody/full/868d01854a847490b851cce029a60e9513bd890b.jpg;Quần âu nam suông 03_Đốm xám,Quần âu nam suông 03_Đốm xám,Quần âu nam suông 03_Đốm xám,Quần âu nam suông 03_Đốm xám;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-suong-03dom-xam-p8002489.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam suông 2_Xám;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/22007c9b0b73cb7687d420049a09bdb3eedd96c5.jpg,images/yody/full/b598cafb17345f12ac6fb139b90d884014bc1ef7.jpg,images/yody/full/48f18b0238596a3d419e7c2a27d5d2f6c761a24d.jpg;Quần âu nam suông 2_Xám,Quần âu nam suông 2_Xám,Quần âu nam suông 2_Xám;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-suong-2xam-p7416194.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;12/XXXL;12/XXXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam YODY ST_Đen;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/a17a594e03366c56d6b31cfc591d1ac78d2da0bd.jpg,images/yody/full/340d8c24d695f32046d445d7e399369200d384d2.jpg,images/yody/full/6b80ca4637651e3984dd6c3aeafa62e102a45251.jpg,images/yody/full/6028ad1698d0db916839067601b7f18024843f12.jpg,images/yody/full/12fbeb06aa2d3b90219893380b06f2db40d046ae.jpg,images/yody/full/35f71f482641ec63717333e4ac892a683c10cb75.jpg;Quần âu nam YODY ST_Đen,Quần âu nam YODY ST_Đen,Quần âu nam YODY ST_Đen,Quần âu nam YODY ST_Đen,Quần âu nam YODY ST_Đen,Quần âu nam YODY ST_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-yody-stden-p8301383.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;549000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam sược_Xám xanh;Nam,Quần âu nam (QAM);462000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/3b1b3266696c1bfaf54c23ecdebf48010a6387c4.jpg,images/yody/full/f84c16d31532c8b3cbbc8ebd77c857d6c53fa09d.jpg,images/yody/full/fb9f3188e3009bf3de6ed48c94b258e66fa26cb8.jpg,images/yody/full/1d805d49308b2d308749bc136fc633a0cebe3c7c.jpg,images/yody/full/f789200f40cbf5b01f4e77346f76009a99faef59.jpg,images/yody/full/13435cb3877f01fe7d8c2c575d8f7c6c0a13988a.jpg;Quần âu nam sược_Xám xanh,Quần âu nam sược_Xám xanh,Quần âu nam sược_Xám xanh,Quần âu nam sược_Xám xanh,Quần âu nam sược_Xám xanh,Quần âu nam sược_Xám xanh;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-suocxam-xanh-p8598355.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;462000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;462000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;462000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;462000;;;;;;;;;;;;;;
+PRODUCT;;1;QUẦN NAM YODY_Đen;Nam,Quần âu nam (QAM);549000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/16aa7fb1e9a2637a06c473a68b3745508a983ddd.jpg,images/yody/full/8c7640f3fc2132c86c2c0b48b012f7355faca457.jpg,images/yody/full/2299b57479816abfe7407d1a332f8d2194c905a0.jpg;QUẦN NAM YODY_Đen,QUẦN NAM YODY_Đen,QUẦN NAM YODY_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-nam-yodyden-p8731247.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;12/XXXL;12/XXXL;;;;549000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam sược_Nâu vàng;Nam,Quần âu nam (QAM);462000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/dcfc82541b17ed8a0f42a4ae29daf3f1f32c4917.jpg,images/yody/full/12fc758ccac20e7fb8935c6c3052e9b15f339abb.jpg,images/yody/full/b6b9f721ba29d0313032335e0708278ac139d328.jpg,images/yody/full/9531885c4207535968392988b91ed3ac68d2877d.jpg,images/yody/full/d6913ee54786c74b7c00bd3003de438372bc8937.jpg;Quần âu nam sược_Nâu vàng,Quần âu nam sược_Nâu vàng,Quần âu nam sược_Nâu vàng,Quần âu nam sược_Nâu vàng,Quần âu nam sược_Nâu vàng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-suocnau-vang-p8598360.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;462000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;462000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;462000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;462000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam slim 07_Tàn đậm;Nam,Quần âu nam (QAM);589000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/793742cec0609860781498fd09bc967ab98f0bb1.jpg,images/yody/full/baecb310d7014acf03bbe92a080510af16b6f575.jpg,images/yody/full/252e175ac7487d5de525b437a75708e77c335f32.jpg,images/yody/full/175f9a06a478f287f3036e84898db8f285468e6a.jpg;Quần âu nam slim 07_Tàn đậm,Quần âu nam slim 07_Tàn đậm,Quần âu nam slim 07_Tàn đậm,Quần âu nam slim 07_Tàn đậm;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-slim-07tan-dam-p11018165.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;;;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;589000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam slim 08_Ghi;Nam,Quần âu nam (QAM);559000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/36dcbc75ecda803572f622e36301acdd88dfc115.jpg,images/yody/full/9e654e961d9acb655aa039e16de9c9475ce69457.jpg,images/yody/full/48464ce79fed358be4624dc2c47fe1c128888610.jpg,images/yody/full/24e046e7727225ff701661ba5cc96ee92fc69339.jpg;Quần âu nam slim 08_Ghi,Quần âu nam slim 08_Ghi,Quần âu nam slim 08_Ghi,Quần âu nam slim 08_Ghi;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-slim-08ghi-p11963689.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;;;;;;559000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;559000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;559000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;559000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu nam slim 10_Tím than;Nam,Quần âu nam (QAM);559000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/84ba3363441eb55ce98dbf3a0aa5d1570371f96b.jpg,images/yody/full/58f6fceaabe4dce2bd2eef0afd3896ca7e97ccd5.jpg;Quần âu nam slim 10_Tím than,Quần âu nam slim 10_Tím than;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/quan-au-nam-slim-10tim-than-p11963734.html;https://yody.vn/nam-pc42832.html,https://yody.vn/quan-au-nam-qam-pc42839.html
+COMBINATION;;Size:select:1;Size:12;;;;;;559000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;559000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;559000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;559000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo khoác nam nỉ mũ_Đen;Nam,Áo khoác nam (AKM);429000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/b0d6d2b3889c0dfc38a27a256a7eede97345e9d6.jpg,images/yody/full/68eeeea758e248925870b9cf2f0200f012d12823.jpg,images/yody/full/aca0a0bd8025eb230b89f4cb0e99b8d2015d651b.jpg,images/yody/full/99218de59db115e0ace32b986fc618931cab1cf1.jpg,images/yody/full/913f08382155d36f1825538ff7f8e33c3b26679f.jpg;Áo khoác nam nỉ mũ_Đen,Áo khoác nam nỉ mũ_Đen,Áo khoác nam nỉ mũ_Đen,Áo khoác nam nỉ mũ_Đen,Áo khoác nam nỉ mũ_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-khoac-nam-ni-muden-p8225293.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-khoac-nam-akm-pc42836.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;429000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;429000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;429000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;429000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo khoác nam có mũ 02_Đen;Nam,Áo khoác nam (AKM);399000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/9923a9b95db0027481ac35cd8d983a81da85f90b.jpg,images/yody/full/a04e9f9b685367a0219304e0cfa4bc0fcb9cf7c9.jpg,images/yody/full/0751f59327b45c66ec8fab340bf65c5b74c86f53.jpg,images/yody/full/3d2654a9b76730717e9281a0addc601b9ef3bada.jpg;Áo khoác nam có mũ 02_Đen,Áo khoác nam có mũ 02_Đen,Áo khoác nam có mũ 02_Đen,Áo khoác nam có mũ 02_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-khoac-nam-co-mu-02den-p8115095.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-khoac-nam-akm-pc42836.html
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;399000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo khoác nam nỉ mũ_Ghi sáng;Nam,Áo khoác nam (AKM);429000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/c29a53e8ccd7b5a93f4f1129ad8a1485b1a5140b.jpg,images/yody/full/8a9c02bb3d1c3d103c0e366a5dc061d4397b6c64.jpg,images/yody/full/b0abfab5d18271a2edec2f1b116d4f7e4dbb1e4b.jpg,images/yody/full/10815142075d79d0c090e15e92721ced89b58704.jpg,images/yody/full/3a2d2fbd39cae346db14bde91936ee6c18ddff10.jpg;Áo khoác nam nỉ mũ_Ghi sáng,Áo khoác nam nỉ mũ_Ghi sáng,Áo khoác nam nỉ mũ_Ghi sáng,Áo khoác nam nỉ mũ_Ghi sáng,Áo khoác nam nỉ mũ_Ghi sáng;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-khoac-nam-ni-mughi-sang-p8225318.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-khoac-nam-akm-pc42836.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;429000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;429000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;429000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;429000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo phao nam YODY 01_Đen;Nam,Áo khoác nam (AKM);589000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/ebd1be67b737226a97c392762ed65abb092828d4.jpg,images/yody/full/f8ca284c326aac3da83d0fcd975a00a1fd8941cd.jpg,images/yody/full/9a9ac5bc576435e836efeacdbc6ac7b3a7505acb.jpg,images/yody/full/86bec9f7cf07ae7f80c82e778d8bfe397e2887e6.jpg,images/yody/full/d5409c549fb5e6efe931479fab75dc978b1647df.jpg,images/yody/full/ddec5109c394e0b07dc832b1837d88ae520b7f99.jpg;Áo phao nam YODY 01_Đen,Áo phao nam YODY 01_Đen,Áo phao nam YODY 01_Đen,Áo phao nam YODY 01_Đen,Áo phao nam YODY 01_Đen,Áo phao nam YODY 01_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-phao-nam-yody-01den-p8535694.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-khoac-nam-akm-pc42836.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;589000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;589000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo khoác gió nam có mũ_Đen;Nam,Áo khoác nam (AKM);489000;1;;0;;;;;;;;Yody;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/yody/full/289c30ded00c65eb1499e263a91ef5c744a28d5e.jpg,images/yody/full/120607a41e8020696550809cf9dc4887522524b8.jpg,images/yody/full/cbefbb0c4b3fd731f8bd09fffd5bb38bc7648061.jpg,images/yody/full/125af57053266ae4b2e0f447fa84bac9c78224d3.jpg;Áo khoác gió nam có mũ_Đen,Áo khoác gió nam có mũ_Đen,Áo khoác gió nam có mũ_Đen,Áo khoác gió nam có mũ_Đen;0;;0;new;0;0;0;0;0;0;0;0;https://yody.vn/ao-khoac-gio-nam-co-muden-p8497693.html;https://yody.vn/nam-pc42832.html,https://yody.vn/ao-khoac-nam-akm-pc42836.html
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;489000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;489000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;8/XL;8/XL;;;;489000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;10/XXL;10/XXL;;;;489000;;;;;;;;;;;;;;

@@ -1,0 +1,311 @@
+type;id;active;name;category;price_tex;id_tax_rules_group;wholesale_price;on_sale;reduction_price;reduction_percent;reduction_from;reduction_to;reference;supplier_reference;supplier;manufacturer;ean13;upc;ecotax;width;height;depth;weight;quantity;minimal_quantity;visibility;additional_shipping_cost;unity;unit_price;description_short;description;tags;meta_title;meta_keywords;meta_description;link_rewrite;available_now;available_later;available_for_order;available_date;date_add;show_price;image;image_alt;delete_existing_images;features;online_only;condition;customizable;uploadable_files;text_fields;out_of_stock;is_virtual;file_url;nb_downloadable;date_expiration;product_url;categories_url
+import_type;id_product;product_reference;group;attribute;supplier_reference;reference;ean13;upc;wholesale_price;price;ecotax;quantity;minimal_quantity;low_stock_threshold;low_stock_alert;weight;default_on;available_date;image_position;image_url;image_alt;shop;advanced_stock_management
+PRODUCT;;1;Áo sơmi dài tay cổ đức;Áo;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/b8414b56f64a09170194fc874b7d450c3b66d9c6.jpg;Áo sơmi dài tay cổ đức;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15117/s/Ao-somi-B119N-ASA1785/category/116/#92=263;https://20again.vn/ao/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần jeans rách;Quần jeans;415000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/4b79d59fde5b581741dd6e9ee04f9e6fef363c23.jpg;Quần jeans rách;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/quan/quan-jeans/quan-jeans-s218n-qsa006.html#92=291;https://20again.vn/quan/quan-jeans.html
+PRODUCT;;1;Chân váy bút chì buộc nơ;SALE;305000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/6e10fb0c41205f8f8137e27fb96cc5ed9dbfaf1d.jpg;Chân váy bút chì buộc nơ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/chan-vay-7131/sale/chan-vay-j080.html#92=303;https://20again.vn/chan-vay-3601/sale.html
+PRODUCT;;1;Đầm ôm tay lỡ;Sản phẩm mới;899000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/f6e9fef6c75e214006e740792c8e7b9cb1703caa.jpg;Đầm ôm tay lỡ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14794/s/Dam-om-C119N-DOA1618/category/112/#92=272;https://20again.vn/vay/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;899000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;899000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;899000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo sơmi dài tay xéo vạt;Áo;405000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/a9abd0599461496d6f305a48a0b69a0ef3761c0c.jpg;Áo sơmi dài tay xéo vạt;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15135/s/Ao-somi-dai-tay-B119N-ASA1798/category/116/#92=263;https://20again.vn/ao/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;405000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;405000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;405000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo sơmi kẻ dài tay;Áo;405000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/eb4f278f943d05385195945f850efd88a7822f87.jpg;Áo sơmi kẻ dài tay;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15152/s/Ao-somi-dai-tay-B119N-ASA1885/category/116/#92=271;https://20again.vn/ao/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;405000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;405000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;405000;;;;;;;;;;;;;;
+PRODUCT;;1;Đầm suông ngắn tay;Đầm;585000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/d79c589716507bdfb5d62912b0679312a30fe5d6.jpg;Đầm suông ngắn tay;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14763/s/Dam-suong-B119N-DXA1786/category/113/#92=265;https://20again.vn/vay/dam.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;585000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;585000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;585000;;;;;;;;;;;;;;
+PRODUCT;;1;Đầm xòe phối tay;Đầm;585000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/9e0365e685378535dfa4f4bd095d26ee24f87313.jpg;Đầm xòe phối tay;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14748/s/Dam-xoe-B119N-DEA1787/category/113/#92=266;https://20again.vn/vay/dam.html
+PRODUCT;;1;Quần âu nữ;Quân âu;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/e12e0a37cd4e697081c920f1778a05236530a679.jpg;Quần âu nữ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/quan/quan-au/quan-au-o118n-qaa1249.html#92=268;https://20again.vn/quan/quan-au.html
+PRODUCT;;1;Áo sơmi dài tay croptop;Áo;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/d7ec14b88a53a95976905efe0912cf205bd03606.jpg;Áo sơmi dài tay croptop;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15156/s/Ao-somi-croptop-B119N-ASA1907/category/116/#92=263;https://20again.vn/ao/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu;Sản phẩm mới;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/282eeabdd0e5a807529fa37cca4c17175f622882.jpg;Quần âu;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/13491/s/Quan-au-B119N-QAA1699/category/124/#92=261;https://20again.vn/quan/san-pham-moi.html
+PRODUCT;;1;Quần âu ống rộng;Sản phẩm mới;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/f4f0582d6308b3e93e4287fa48feb981b3d63ed4.jpg;Quần âu ống rộng;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/13495/s/Quan-au-B119N-QAA1701/category/124/#92=261;https://20again.vn/quan/san-pham-moi.html
+PRODUCT;;1;Áo sơmi dài tay gấu tay loe;Áo;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/81062a1ecec6d9febccc325a87ec741ebca928e6.jpg;Áo sơmi dài tay gấu tay loe;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15131/s/Ao-somi-dai-tay-B119N-ASA1796/category/116/#92=263;https://20again.vn/ao/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần skinny jeans basic;Sản phẩm mới;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/d3e62a8e5794de888c6ec93a13b3f3ffb8addda7.jpg;Quần skinny jeans basic;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14935/s/Quan-skinny-S219N-QSA055/category/124/#92=291;https://20again.vn/quan/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo sơmi dây rút tay;Áo;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/175a08f084b1d062e281c0396164aa1052489214.jpg;Áo sơmi dây rút tay;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15145/s/Ao-somi-dai-tay-B119N-ASA1816/category/116/#92=263;https://20again.vn/ao/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần shorts vải;Sản phẩm mới;325000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/c88def1bf71579201cd9d3be0f6e9347baf8c379.jpg;Quần shorts vải;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15110/s/Quan-shorts-vai-B119H-SVA1933/category/124/#92=270;https://20again.vn/quan/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;325000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;325000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;325000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần shorts vải;Sản phẩm mới;335000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/2efba8921b6664433bf18f650c4f781ecced24cc.jpg;Quần shorts vải;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15100/s/Quan-shorts-B119H-SVA1760/category/124/#92=291;https://20again.vn/quan/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;335000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;335000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;335000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu;Sản phẩm mới;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/3292564fff41f5a5e11a1b088235fb420cc97bbc.jpg;Quần âu;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/13499/s/Quan-au-B119N-QAA1702/category/124/#92=261;https://20again.vn/quan/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu;Sản phẩm mới;499000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/b3419a2393cee7c7cfcf8b9c98c6414d768c1c2f.jpg;Quần âu;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14801/s/Quan-au-C119N-QAA1921/category/124/#92=272;https://20again.vn/quan/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;499000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo sơmi dài tay bèo nơ;Áo sơ mi;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/c53e5a871d023f04da9daf448ebabd3fc44d6d1e.jpg;Áo sơmi dài tay bèo nơ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14656/s/Ao-somi-dai-tay-beo-no-B119N-ASA1806/category/117/#92=291;https://20again.vn/ao/ao-so-mi.html
+PRODUCT;;1;Quần sooc dạ;Quần sooc;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/71cd2df99bd160d1a27253a0c702c1391fc6fa3e.jpg;Quần sooc dạ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/quan/quan-sooc/quan-sooc-o118t-sva1242.html#92=270;https://20again.vn/quan/quan-sooc.html
+PRODUCT;;1;Áo sơmi dài tay ;Áo sơ mi;405000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/3cc206888764a94f5101d03bfa145662e6ef933f.jpg;Áo sơmi dài tay ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15124/s/Ao-somi-dai-tay-B119N-ASA1790/category/117/#92=263;https://20again.vn/ao/ao-so-mi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;405000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;405000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;405000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần shorts giả váy vạt lệch;Sản phẩm mới;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/5cd9810872c78a119b0250af72beaf8fe676eab7.jpg;Quần shorts giả váy vạt lệch;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14589/s/Quan-shorts-nu-B119H-SGA1797/category/124/#92=261;https://20again.vn/quan/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;355000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần shorts giả váy;Quần giả váy;325000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/ba342a3b93caa88c3bdadfad6784a5b288425b46.jpg;Quần shorts giả váy;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/13936/s/Quan-shorts-gia-vay-B119H-SGA1690/category/128/#92=263;https://20again.vn/quan/quan-gia-vay.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;325000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;325000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;325000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần jeans skinny rạch gấu;Sản phẩm mới;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/9c4aaed3a6f887ccd8f2887561862b5c16b2e973.jpg;Quần jeans skinny rạch gấu;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15315/s/Quan-jeans-S219N-QSA058/category/124/#92=306;https://20again.vn/quan/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần sooc dạ đai đính nơ;Quần sooc;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/9a45a3639c0372ab974802e1b5ef07fe54bc23cc.jpg;Quần sooc dạ đai đính nơ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/quan/quan-sooc/quan-da-o118t-sva1162.html#92=272;https://20again.vn/quan/quan-sooc.html
+PRODUCT;;1;Quần sooc vải;Quần sooc;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/3ec46ff24b00544b591dc893abd0354e3ca15acf.jpg;Quần sooc vải;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/quan/quan-sooc/quan-sooc-vai-s118h-sva955.html#92=268;https://20again.vn/quan/quan-sooc.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;355000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần shorts giả váy vạt lệch;Quần giả váy;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/5cd9810872c78a119b0250af72beaf8fe676eab7.jpg;Quần shorts giả váy vạt lệch;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14589/s/Quan-shorts-nu-B119H-SGA1797/category/128/#92=261;https://20again.vn/quan/quan-gia-vay.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;355000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo sơmi dài tay nơ cổ;Áo sơ mi;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/5fe8e7ba33cd44c55ff324b2c089d81c5a93a9aa.jpg;Áo sơmi dài tay nơ cổ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14670/s/Ao-somi-dai-tay-no-co-B119N-ASA1811/category/117/#92=291;https://20again.vn/ao/ao-so-mi.html
+PRODUCT;;1;Áo sơmi dai tay oze cổ;Áo sơ mi;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/7ccd11b7e7fa2fd7bafadfd7f918c41d9ecf679d.jpg;Áo sơmi dai tay oze cổ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14663/s/Ao-somi-dai-tay-B119N-ASA1807/category/117/#92=264;https://20again.vn/ao/ao-so-mi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo sơmi dây rút tay;Áo sơ mi;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/175a08f084b1d062e281c0396164aa1052489214.jpg;Áo sơmi dây rút tay;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15145/s/Ao-somi-dai-tay-B119N-ASA1816/category/117/#92=263;https://20again.vn/ao/ao-so-mi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu dáng suông;Quân âu;415000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/d91cb55fd9961ea19c983a56fd5f2a500bca2745.jpg;Quần âu dáng suông;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/quan/quan-au/quan-au-s118n-qaa1307.html#92=264;https://20again.vn/quan/quan-au.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;415000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;415000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;415000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu kẻ đai trang trí;Quân âu;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/a97275ae96241503404d4f370d1978d48aca674a.jpg;Quần âu kẻ đai trang trí;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14111/s/Quan-au-ke-B119N-QAA1814/category/125/#92=393;https://20again.vn/quan/quan-au.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu ống loe xẻ gấu;Quân âu;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/f28ccf9301fc3fb10dcbc5a17852ddf3b3d7ddff.jpg;Quần âu ống loe xẻ gấu;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14104/s/Quan-ong-loe-B119N-QAA1700/category/125/#92=261;https://20again.vn/quan/quan-au.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo sơmi ngắn tay vạt lệch;Áo sơ mi;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/02f4e5fd7e84140774e9cfaa9a4f1d6683489427.jpg;Áo sơmi ngắn tay vạt lệch;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15067/s/Ao-somi-nu-vat-lech-B119H-ASA1751/category/117/#92=263;https://20again.vn/ao/ao-so-mi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;355000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần jeans skinny rạch gấu;Quần jeans;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/9c4aaed3a6f887ccd8f2887561862b5c16b2e973.jpg;Quần jeans skinny rạch gấu;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15315/s/Quan-jeans-S219N-QSA058/category/127/#92=306;https://20again.vn/quan/quan-jeans.html
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần skinny jeans basic;Quần jeans;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/d3e62a8e5794de888c6ec93a13b3f3ffb8addda7.jpg;Quần skinny jeans basic;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14935/s/Quan-skinny-S219N-QSA055/category/127/#92=291;https://20again.vn/quan/quan-jeans.html
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần jeans boy cutline;Quần jeans;365000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/0f56776746989d3a163459b33e994c2b82f5a2c4.jpg;Quần jeans boy cutline;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/13536/s/Quan-jeans-nu-S219N-QBA049/category/127/#92=291;https://20again.vn/quan/quan-jeans.html
+COMBINATION;;Size:select:1;Size:12;;;;;;365000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;365000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;365000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;;;;;;365000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần sooc;Quần sooc;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/8e5cd79738c0817cbd912678d34fc94043f04ec6.jpg;Quần sooc;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/quan/quan-sooc/quan-sooc-s118h-sva907.html#92=268;https://20again.vn/quan/quan-sooc.html
+PRODUCT;;1;Đầm xòe phối tay;Sản phẩm mới;585000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/9e0365e685378535dfa4f4bd095d26ee24f87313.jpg;Đầm xòe phối tay;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14748/s/Dam-xoe-B119N-DEA1787/category/112/#92=266;https://20again.vn/vay/san-pham-moi.html
+PRODUCT;;1;Đầm dài phối sơmi;Sản phẩm mới;605000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/e98786c5e7e9623c4097ddc86b570e8d1ee0be00.jpg;Đầm dài phối sơmi;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15171/s/Dam-dai-B119N-DDA1855/category/112/#92=261;https://20again.vn/vay/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;605000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;605000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;605000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần jeans loe xoè gấu;Quần jeans;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/eff00c1b8335eb087fcf34bb2cd321b2359e02ac.jpg;Quần jeans loe xoè gấu;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/quan/quan-jeans/quan-jeans-loe-s218n-qfa020.html#92=291;https://20again.vn/quan/quan-jeans.html
+PRODUCT;;1;Đầm xòe ngắn tay ;Sản phẩm mới;585000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/506319c0f7cd7a28236a008da0eb67a73972ba5f.jpg;Đầm xòe ngắn tay ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14741/s/Dam-xoe-B119N-DEA1779/category/112/#92=263;https://20again.vn/vay/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;585000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;585000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;585000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần âu;Quân âu;499000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/b3419a2393cee7c7cfcf8b9c98c6414d768c1c2f.jpg;Quần âu;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14801/s/Quan-au-C119N-QAA1921/category/125/#92=272;https://20again.vn/quan/quan-au.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;499000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;499000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần jeans skinny;Quần jeans;415000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/de14b8eafda837f4b782143452be128b96ba18c6.jpg;Quần jeans skinny;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/quan/quan-jeans/quan-jeans-skinny-s218n-qsa019.html#92=261;https://20again.vn/quan/quan-jeans.html
+PRODUCT;;1;Quần âu;Quân âu;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/3292564fff41f5a5e11a1b088235fb420cc97bbc.jpg;Quần âu;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/13499/s/Quan-au-B119N-QAA1702/category/125/#92=261;https://20again.vn/quan/quan-au.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Chân váy ren có túi;SALE;325000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/75e55a1aeb8ba4f140dbad8d08fa3d894dd9e68a.jpg;Chân váy ren có túi;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/chan-vay-7131/sale/chan-vay-ren-j082.html#92=303;https://20again.vn/chan-vay-3601/sale.html
+PRODUCT;;1;Đầm xòe ngắn tay;Sản phẩm mới;585000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/6745493c37a37f4ef027592bbb29d56417369d85.jpg;Đầm xòe ngắn tay;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15178/s/Dam-xoe-ngan-tay-B119N-DEA1713/category/112/#92=291;https://20again.vn/vay/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;585000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;585000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;585000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt ngắn tay in chữ;Áo;225000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/e7f5bb67c4c894d30c64289d3b31e03a021ad325.jpg;Áo t-shirt ngắn tay in chữ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15265/s/Ao-tshirt-co-tron-S119H-ATA1876/category/116/#92=263;https://20again.vn/ao/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;225000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần jeans boy kẻ nép gập gấu;Quần jeans;365000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/2c21e9117775b19ca931f782ca0233c49e85390e.jpg;Quần jeans boy kẻ nép gập gấu;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/quan/quan-jeans/quan-jeans-s218n-qba043.html#92=291;https://20again.vn/quan/quan-jeans.html
+PRODUCT;;1;Đầm xòe ngắn tay phối;Đầm;585000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/47e064cd755cbee0953a3cf366bb3b9e0a94cd8d.jpg;Đầm xòe ngắn tay phối;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14752/s/Dam-xoe-B119N-DEA1799/category/113/#92=261;https://20again.vn/vay/dam.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;585000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;585000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;585000;;;;;;;;;;;;;;
+PRODUCT;;1;Đầm trễ vai chun tay;Sản phẩm mới;605000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/c6023e00efc2aac8daa4bbbec59c1d73af9ab33c.jpg;Đầm trễ vai chun tay;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14906/s/Dam-tre-vai-S119N-DDA1738/category/112/#92=297;https://20again.vn/vay/san-pham-moi.html
+PRODUCT;;1;Quần shorts vải;Quần sooc;325000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/c88def1bf71579201cd9d3be0f6e9347baf8c379.jpg;Quần shorts vải;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15110/s/Quan-shorts-vai-B119H-SVA1933/category/126/#92=270;https://20again.vn/quan/quan-sooc.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;325000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;325000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;325000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo sơmi ngắn tay vai bồng;Áo sơ mi;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/199f39bc5bd2cf836964c808d1fb2456aa7a805e.jpg;Áo sơmi ngắn tay vai bồng;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15081/s/Ao-somi-vai-bong-B119H-ASA1856/category/117/#92=263;https://20again.vn/ao/ao-so-mi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;355000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo sơmi ngắn tay vai chờm;Áo sơ mi;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/a47ca83122a83ffd5f8be3d250e058d24f89fc00.jpg;Áo sơmi ngắn tay vai chờm;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15167/s/Ao-somi-vai-chom-B119N-ASA1997/category/117/#92=263;https://20again.vn/ao/ao-so-mi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;355000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần jeans nữ;Quần jeans;415000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/1567d7570201efd243db840a38e7329f84990d45.jpg;Quần jeans nữ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/quan/quan-jeans/quan-jeans-s218n-qsa008.html#92=291;https://20again.vn/quan/quan-jeans.html
+PRODUCT;;1;Áo t-shirt in chữ;Áo thun - Nỉ;235000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/e6898e19dd1f098af28541bb988c8ac5104f8e85.jpg;Áo t-shirt in chữ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15272/s/Ao-tshirt-S119H-ATA1877/category/118/#92=370;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;235000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;235000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;235000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt cổ tròn ngắn tay dáng suông;Áo thun - Nỉ;235000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/5a77690b75180654896217fe82815876640cb988.jpg;Áo t-shirt cổ tròn ngắn tay dáng suông;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14841/s/Ao-tshirt-S119H-ATA1766/category/118/#92=263;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;235000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;235000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;235000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt ngắn tay in hình trái tim;Áo thun - Nỉ;225000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/c86f7be29e86c4272149180a0a2e3ce98d6eb474.jpg;Áo t-shirt ngắn tay in hình trái tim;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14861/s/Ao-tshirt-ngan-tay-S119H-ATA1837/category/118/#92=370;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;225000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần shorts;Sản phẩm mới;325000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/03af0eb13fa62898abc16fbfaa36ff5d230744d2.jpg;Quần shorts;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14012/s/Quan-shorts-B119H-SVA1840/category/124/#92=261;https://20again.vn/quan/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;325000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;325000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;325000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt ngắn tay in chữ;Áo thun - Nỉ;225000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/f1209a0b77877cf33aaf1f8f724fe8a61a58763c.jpg;Áo t-shirt ngắn tay in chữ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14878/s/Ao-tshirt-ngan-tay-S119H-ATA1878/category/118/#92=263;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;225000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt cổ tim chun tay;Áo thun - Nỉ;255000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/06629e3abfcc99b92ac25f36e21258920c6f5793.jpg;Áo t-shirt cổ tim chun tay;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14834/s/Ao-tshirt-S119H-ATA1682/category/118/#92=268;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;255000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;255000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;255000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt cổ tròn in chữ;Áo thun - Nỉ;225000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/c0e9bff5c8de268eab3990f3c721fb48a7963886.jpg;Áo t-shirt cổ tròn in chữ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14892/s/Ao-tshirt-ngan-tay-S119H-ATA1880/category/118/#92=263;https://20again.vn/ao/ao-thun-ni.html
+PRODUCT;;1;Quần âu kẻ đai trang trí;Sản phẩm mới;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/a97275ae96241503404d4f370d1978d48aca674a.jpg;Quần âu kẻ đai trang trí;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14111/s/Quan-au-ke-B119N-QAA1814/category/124/#92=393;https://20again.vn/quan/san-pham-moi.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần lót phối ren chun cạp;Quần lót;65000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/ad02fd4d40f0440a9e36e1cb5a25c8c525a4bfd1.jpg;Quần lót phối ren chun cạp;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/phu-kien/quan-lot/quan-lot-nu-b218n-bua002.html#92=268;https://20again.vn/phu-kien/quan-lot.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;65000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;65000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;65000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt ngắn tay in hình nhỏ ngực trái;Áo thun - Nỉ;225000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/e2c6630383e57846205b65d6571b6326218be060.jpg;Áo t-shirt ngắn tay in hình nhỏ ngực trái;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14851/s/Ao-tshirt-S119H-ATA1836/category/118/#92=268;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;225000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần lót nữ phối ren chen cạp;Quần lót;65000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/a0d93c719c19e07192e8eef3d5a224ae0a56841f.jpg;Quần lót nữ phối ren chen cạp;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/phu-kien/quan-lot/quan-lot-nu-b218n-bua003.html#92=306;https://20again.vn/phu-kien/quan-lot.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;65000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;65000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;65000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt ngắn tay in chữ;Áo thun - Nỉ;225000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/e7f5bb67c4c894d30c64289d3b31e03a021ad325.jpg;Áo t-shirt ngắn tay in chữ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15265/s/Ao-tshirt-co-tron-S119H-ATA1876/category/118/#92=263;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;225000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt cổ tròn in chữ;Áo thun - Nỉ;225000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/4777b161b1a796a4b3eded4e68b67b8664bc21cc.jpg;Áo t-shirt cổ tròn in chữ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15258/s/Ao-tshirt-in-chu-S119H-ATA1875/category/118/#92=267;https://20again.vn/ao/ao-thun-ni.html
+PRODUCT;;1;Áo t-shirt cổ tròn ngắn tay in chữ;Áo thun - Nỉ;225000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/30b015d01ada5d0552e999b606e560e52f4d809c.jpg;Áo t-shirt cổ tròn ngắn tay in chữ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14899/s/Ao-tshirt-S119H-ATA1881/category/118/#92=370;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;225000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt ngắn tay in chữ;Áo thun - Nỉ;235000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/f66c7201a4d5a0297eb90c9c975c26cfd8f35152.jpg;Áo t-shirt ngắn tay in chữ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14885/s/Ao-tshirt-S119H-ATA1879/category/118/#92=263;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;235000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;235000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;235000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt ngắn tay in hình cô gái;Áo thun - Nỉ;225000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/a2bbfcc57f3690de28621a047840f06fa81e79dd.jpg;Áo t-shirt ngắn tay in hình cô gái;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14871/s/Ao-tshirt-S119H-ATA1838/category/118/#92=268;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;225000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;225000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt cổ vuông;Áo thun - Nỉ;185000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/81608e74ecd4e4a0b262751f602fabe30b0e3479.jpg;Áo t-shirt cổ vuông;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15241/s/Ao-tshirt-co-vuong-S119H-ATA1742/category/118/#92=263;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;185000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;185000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;185000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần lót phối ren chun cạp;Quần lót;65000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/5fcf6828e65699145794f6494fd456328d8d339e.jpg;Quần lót phối ren chun cạp;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/phu-kien/quan-lot/quan-lot-b218n-bua005.html#92=260;https://20again.vn/phu-kien/quan-lot.html
+PRODUCT;;1;Áo t-shirt túi ốp;Áo thun - Nỉ;185000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/2635b518c6c44a334699300550826a5de3b4c2c5.jpg;Áo t-shirt túi ốp;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15276/s/Ao-t-shirt-tui-op-S119H-ATA1886/category/118/#92=263;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;185000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;185000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;185000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt cổ tròn ngắn tay dáng ôm;Áo thun - Nỉ;185000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/9feb2d95974f36fb7a0e16d4c4f2716451028596.jpg;Áo t-shirt cổ tròn ngắn tay dáng ôm;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14942/s/Ao-tshirt-T119H-ATA1808/category/118/#92=263;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;185000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;185000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;185000;;;;;;;;;;;;;;
+PRODUCT;;1;Quần lót phối ren mỏng;Quần lót;85000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/43cd2e9d7f303211f568b2e7e94ce6cc52f6d99d.jpg;Quần lót phối ren mỏng;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/phu-kien/quan-lot/quan-lot-nu-b218n-bua001.html#92=261;https://20again.vn/phu-kien/quan-lot.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;85000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;85000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;85000;;;;;;;;;;;;;;
+PRODUCT;;1;Chân váy bút chì;Chân váy;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/1bfdbb226d2ef75df31379e73966a928207992f7.jpg;Chân váy bút chì;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/chan-vay-7131/chan-vay-but-chi-b119n-jba1696.html#92=261;https://20again.vn/chan-vay-2519.html
+PRODUCT;;1;Chân váy bèo lệch;Chân váy;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/a708313d2e050c49671002ad23e26cf49e617fd9.jpg;Chân váy bèo lệch;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/chan-vay-7131/chan-vay-o118n-jda1449.html#92=261;https://20again.vn/chan-vay-2519.html
+PRODUCT;;1;Chân váy bèo nơ lệch;Chân váy;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/c6e71709a729af67362dc941bb6e737b7f65b0a8.jpg;Chân váy bèo nơ lệch;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/12817/s/Chan-vay-B118N-JDA1510/category/157/#92=278;https://20again.vn/chan-vay-2519.html
+PRODUCT;;1;Chân váy xòe dài mở khuy;Chân váy;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/9ebb6b76d992d1b9d0cf88ce57c0490a7aa45d12.jpg;Chân váy xòe dài mở khuy;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/12916/s/Chan-vay-O118N-JDA1471/category/157/#92=261;https://20again.vn/chan-vay-2519.html
+PRODUCT;;1;Áo t-shirt đính cúc trang trí;Áo thun - Nỉ;235000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/61cd1a5c6902782d7e9577701c24f6060db55516.jpg;Áo t-shirt đính cúc trang trí;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15251/s/Ao-tshirt-S119H-ATA1767/category/118/#92=263;https://20again.vn/ao/ao-thun-ni.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;235000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;235000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;235000;;;;;;;;;;;;;;
+PRODUCT;;1;Chân váy bút chì bèo lệch;Chân váy;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/2603dd02c4135a03871a9b8143bdd81c865040be.jpg;Chân váy bút chì bèo lệch;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/chan-vay-7131/chan-vay-b119n-jba1507.html#92=263;https://20again.vn/chan-vay-2519.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;355000;;;;;;;;;;;;;;
+PRODUCT;;1;Chân váy dạ xòe xếp ly;Chân váy;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/1c06dae566722247596f7fc1e090f541131a0082.jpg;Chân váy dạ xòe xếp ly;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/chan-vay-7131/chan-vay-o118d-jxa1455.html#92=414;https://20again.vn/chan-vay-2519.html
+PRODUCT;;1;Chân váy dài bèo lệch;Chân váy;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/f1d7b1773e8465ec15dc035f0e94914f2ec328c8.jpg;Chân váy dài bèo lệch;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/13484/s/Chan-vay-B119N-JDA1692/category/157/#92=393;https://20again.vn/chan-vay-2519.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Áo t-shirt chéo vạt trước;Áo thun - Nỉ;215000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/21a532778e239266d5f4379b405f50e9156e4f9d.jpg;Áo t-shirt chéo vạt trước;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15234/s/Ao-t-shirt-S119H-ATA1733/category/118/#92=267;https://20again.vn/ao/ao-thun-ni.html
+PRODUCT;;1;Chân váy xòe đuôi cá;Chân váy;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/ef5695f83f3e477567028e70f3871ace76714f5c.jpg;Chân váy xòe đuôi cá;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/chan-vay-7131/chan-vay-o118n-jxa1482.html#92=490;https://20again.vn/chan-vay-2519.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;355000;;;;;;;;;;;;;;
+PRODUCT;;1;Chân váy chữ A buộc nơ;Chân váy;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/00b44001cd5896bed631d51c6d743a66245d79c4.jpg;Chân váy chữ A buộc nơ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14085/s/Chan-vay-chu-a-B119N-JAA1818/category/157/#92=353;https://20again.vn/chan-vay-2519.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Chân váy bút chì;Chân váy;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/eec1e9f6749cd60e85532bc12f6091b66b6a9cd9.jpg;Chân váy bút chì;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14092/s/Chan-vay-but-chi-B119N-JBA1586/category/157/#92=261;https://20again.vn/chan-vay-2519.html
+PRODUCT;;1;Chân váy vạt lệch;Chân váy;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/8eb5d66e11516fa7ff526c0f25f15354cc345047.jpg;Chân váy vạt lệch;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14096/s/Chan-vay-B119N-JDA1739/category/157/#92=261;https://20again.vn/chan-vay-2519.html
+PRODUCT;;1;Chân váy bút chì;Chân váy;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/7d460b94b5bafdcd0f6f2fb05b55da847aa68566.jpg;Chân váy bút chì;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/13062/s/Chan-vay-but-chi-B119N-JBA1476/category/157/#92=261;https://20again.vn/chan-vay-2519.html
+PRODUCT;;1;Quần lót phối ren cạp;Quần lót;65000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/ba7fc9106c9eff2da22e8b5b736b1c2af563441c.jpg;Quần lót phối ren cạp;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/phu-kien/quan-lot/quan-lot-nu-b218n-bua004.html#92=272;https://20again.vn/phu-kien/quan-lot.html
+PRODUCT;;1;Chân váy jeans mở khuy;Chân váy;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/d66e5e47d5464faca13026d5e3d16b46510a32ec.jpg;Chân váy jeans mở khuy;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15290/s/Chan-vay-jeans-S119N-JJA1819/category/157/#92=264;https://20again.vn/chan-vay-2519.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Juyp dáng A có túi trước;Chân váy;295000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/2ccd3ef68a284467d06435ef622f4b33349c6552.jpg;Juyp dáng A có túi trước;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14922/s/Juyp-S219N-JJA051/category/157/#92=291;https://20again.vn/chan-vay-2519.html
+PRODUCT;;1;Chân váy bút chì ren gấu;Chân váy;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/5155f5507aad791de85a50a57f19496762f08dde.jpg;Chân váy bút chì ren gấu;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14100/s/Chan-vay-but-chi-B119N-JDA1809/category/157/#92=261;https://20again.vn/chan-vay-2519.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Chân váy bút chì;Chân váy;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/6826b1658cf68d3bcf94769013a9d96366d15e07.jpg;Chân váy bút chì;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15217/s/Chan-vay-but-chi-B119N-JBA2021/category/157/#92=261;https://20again.vn/chan-vay-2519.html
+PRODUCT;;1;Chân váy bút chì xẻ;Chân váy;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/a80547e8b6a5822b718d628da19cd794af4c94a9.jpg;Chân váy bút chì xẻ;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/13517/s/Chan-vay-but-chi-O119N-JBA1529/category/157/#92=261;https://20again.vn/chan-vay-2519.html
+PRODUCT;;1;Chân váy xòe xếp ly;Chân váy;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/cd5ab7330b50766ba0ed5b245cc166c5bc06cdc3.jpg;Chân váy xòe xếp ly;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/15224/s/Chan-vay-xep-ly-B119N-JXA1872/category/157/#92=261;https://20again.vn/chan-vay-2519.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;355000;;;;;;;;;;;;;;
+PRODUCT;;1;Chân váy mullet lệch;Chân váy;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/300dc1be50bdd443a4c1b2d4952338b7b2ed6977.jpg;Chân váy mullet lệch;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14777/s/Chan-vay-mullet-B119N-JDA1817/category/157/#92=264;https://20again.vn/chan-vay-2519.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
+PRODUCT;;1;Chân váy ôm xe gấu;Chân váy;355000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/001a05377d18ca79b318282030241314c39f84e2.jpg;Chân váy ôm xe gấu;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/catalog/product/view/id/14784/s/Chan-vay-B119N-JDA1820/category/157/#92=272;https://20again.vn/chan-vay-2519.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;355000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;355000;;;;;;;;;;;;;;
+PRODUCT;;1;Chân váy họa tiết bèo xẻ trước;Chân váy;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/15b8a2a65e12a346dd52320b56a5c7e9d1bc9b51.jpg;Chân váy họa tiết bèo xẻ trước;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/chan-vay-7131/chan-vay-b118n-jda1649.html#92=318;https://20again.vn/chan-vay-2519.html
+PRODUCT;;1;Juyp thun bút chì dáng dài;Chân váy;385000;1;;0;;;;;;;;20again;;;;;;;;100;1;;;;;;;;;;;;In Stock;;1;;;1;images/twentyAgain/full/e940f7dbf36cd150c3448766985608bd4d3ea0fb.jpg;Juyp thun bút chì dáng dài;0;;0;new;0;0;0;0;0;0;0;0;https://20again.vn/chan-vay-7131/juyp-nu-s118n-jba1472.html#92=265;https://20again.vn/chan-vay-2519.html
+COMBINATION;;Size:select:1;Size:12;2/S;2/S;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;4/M;4/M;;;;385000;;;;;;;;;;;;;;
+COMBINATION;;Size:select:1;Size:12;6/L;6/L;;;;385000;;;;;;;;;;;;;;
